@@ -1,0 +1,1001 @@
+bmi,activity_level,fitness_goal
+28.0,Active,Lean Muscle Gain
+24.2,Moderate,Lean Muscle Gain
+19.7,Active,Weight Loss
+22.5,Moderate,Lean Muscle Gain
+22.2,Moderate,Lean Muscle Gain
+22.2,Sedentary,Lean Muscle Gain
+22.4,Active,Lean Muscle Gain
+20.5,Active,Lean Muscle Gain
+25.9,Sedentary,Bulking
+24.8,Active,Lean Muscle Gain
+21.4,Active,Lean Muscle Gain
+23.2,Sedentary,Weight Loss
+22.7,Moderate,Lean Muscle Gain
+18.0,Moderate,Bulking
+26.9,Sedentary,Weight Loss
+16.6,Moderate,Bulking
+29.2,Active,Lean Muscle Gain
+24.0,Active,Lean Muscle Gain
+26.6,Moderate,Weight Loss
+34.9,Sedentary,Weight Loss
+28.5,Active,Lean Muscle Gain
+30.3,Moderate,Weight Loss
+16.0,Active,Lean Muscle Gain
+31.6,Sedentary,Weight Loss
+30.0,Sedentary,Weight Loss
+26.8,Active,Lean Muscle Gain
+34.0,Active,Bulking
+27.0,Active,Weight Loss
+25.9,Sedentary,Weight Loss
+24.3,Moderate,Weight Loss
+16.5,Sedentary,Weight Loss
+26.1,Active,Weight Loss
+28.0,Moderate,Weight Loss
+31.9,Moderate,Weight Loss
+20.4,Sedentary,Lean Muscle Gain
+22.8,Sedentary,Bulking
+14.0,Sedentary,Bulking
+27.1,Moderate,Weight Loss
+24.0,Sedentary,Weight Loss
+27.4,Moderate,Weight Loss
+14.0,Sedentary,Bulking
+24.8,Active,Lean Muscle Gain
+21.0,Sedentary,Lean Muscle Gain
+25.0,Moderate,Weight Loss
+27.0,Active,Weight Loss
+25.0,Active,Weight Loss
+27.1,Moderate,Weight Loss
+24.9,Sedentary,Weight Loss
+36.6,Active,Weight Loss
+25.5,Active,Weight Loss
+21.8,Active,Lean Muscle Gain
+31.6,Sedentary,Weight Loss
+32.5,Active,Weight Loss
+25.4,Sedentary,Weight Loss
+36.2,Active,Weight Loss
+27.4,Moderate,Weight Loss
+14.7,Sedentary,Bulking
+25.7,Sedentary,Weight Loss
+16.4,Active,Lean Muscle Gain
+32.1,Active,Weight Loss
+30.5,Active,Weight Loss
+23.6,Moderate,Lean Muscle Gain
+28.4,Sedentary,Lean Muscle Gain
+24.0,Moderate,Weight Loss
+17.9,Sedentary,Lean Muscle Gain
+28.9,Sedentary,Weight Loss
+33.1,Active,Weight Loss
+20.6,Sedentary,Lean Muscle Gain
+17.1,Moderate,Bulking
+29.3,Sedentary,Weight Loss
+24.2,Sedentary,Weight Loss
+30.2,Active,Weight Loss
+28.8,Active,Weight Loss
+19.9,Sedentary,Weight Loss
+28.6,Sedentary,Weight Loss
+22.9,Sedentary,Lean Muscle Gain
+19.9,Active,Lean Muscle Gain
+15.9,Active,Lean Muscle Gain
+29.3,Moderate,Weight Loss
+25.6,Moderate,Weight Loss
+25.3,Moderate,Weight Loss
+18.1,Sedentary,Bulking
+27.7,Moderate,Weight Loss
+35.7,Active,Weight Loss
+20.6,Active,Lean Muscle Gain
+26.2,Sedentary,Weight Loss
+24.0,Moderate,Lean Muscle Gain
+20.9,Moderate,Lean Muscle Gain
+22.1,Sedentary,Lean Muscle Gain
+25.5,Moderate,Weight Loss
+22.2,Sedentary,Lean Muscle Gain
+31.5,Sedentary,Weight Loss
+22.7,Moderate,Lean Muscle Gain
+27.6,Active,Weight Loss
+24.4,Active,Lean Muscle Gain
+22.1,Active,Lean Muscle Gain
+35.7,Sedentary,Weight Loss
+20.9,Sedentary,Lean Muscle Gain
+26.1,Sedentary,Weight Loss
+28.5,Active,Weight Loss
+25.5,Active,Weight Loss
+21.4,Sedentary,Lean Muscle Gain
+21.7,Moderate,Lean Muscle Gain
+31.6,Active,Lean Muscle Gain
+22.4,Active,Bulking
+25.8,Moderate,Weight Loss
+36.6,Active,Weight Loss
+27.5,Active,Lean Muscle Gain
+18.8,Sedentary,Lean Muscle Gain
+26.2,Active,Lean Muscle Gain
+21.0,Active,Lean Muscle Gain
+19.8,Sedentary,Lean Muscle Gain
+23.8,Moderate,Lean Muscle Gain
+22.0,Active,Lean Muscle Gain
+27.1,Sedentary,Weight Loss
+20.8,Sedentary,Weight Loss
+28.3,Active,Lean Muscle Gain
+20.7,Moderate,Lean Muscle Gain
+31.3,Sedentary,Weight Loss
+26.4,Active,Lean Muscle Gain
+32.8,Moderate,Weight Loss
+25.1,Active,Bulking
+22.5,Moderate,Lean Muscle Gain
+30.9,Active,Weight Loss
+31.7,Sedentary,Weight Loss
+37.9,Active,Weight Loss
+35.9,Active,Weight Loss
+27.4,Moderate,Weight Loss
+25.3,Moderate,Weight Loss
+25.4,Moderate,Weight Loss
+15.5,Sedentary,Bulking
+25.5,Sedentary,Weight Loss
+20.7,Sedentary,Lean Muscle Gain
+23.7,Moderate,Lean Muscle Gain
+23.2,Moderate,Weight Loss
+25.0,Sedentary,Weight Loss
+30.0,Moderate,Weight Loss
+31.8,Sedentary,Weight Loss
+14.0,Moderate,Lean Muscle Gain
+31.9,Sedentary,Bulking
+24.0,Active,Lean Muscle Gain
+26.7,Moderate,Weight Loss
+20.8,Sedentary,Weight Loss
+19.2,Active,Weight Loss
+19.7,Sedentary,Lean Muscle Gain
+23.6,Moderate,Weight Loss
+20.2,Active,Lean Muscle Gain
+17.0,Sedentary,Bulking
+35.4,Sedentary,Weight Loss
+16.0,Active,Lean Muscle Gain
+17.1,Moderate,Bulking
+36.0,Sedentary,Weight Loss
+33.4,Moderate,Weight Loss
+22.3,Sedentary,Lean Muscle Gain
+31.9,Sedentary,Weight Loss
+22.7,Moderate,Bulking
+24.3,Moderate,Lean Muscle Gain
+24.7,Sedentary,Weight Loss
+34.1,Sedentary,Weight Loss
+26.9,Active,Weight Loss
+16.8,Sedentary,Bulking
+28.2,Moderate,Weight Loss
+27.0,Moderate,Weight Loss
+20.5,Active,Lean Muscle Gain
+26.0,Sedentary,Weight Loss
+31.9,Active,Weight Loss
+28.9,Moderate,Weight Loss
+33.2,Active,Weight Loss
+14.6,Active,Lean Muscle Gain
+33.7,Moderate,Weight Loss
+34.0,Moderate,Weight Loss
+25.4,Active,Weight Loss
+32.3,Sedentary,Weight Loss
+24.1,Sedentary,Weight Loss
+14.0,Active,Lean Muscle Gain
+24.5,Active,Bulking
+39.1,Active,Weight Loss
+18.4,Sedentary,Bulking
+37.3,Moderate,Weight Loss
+23.1,Active,Bulking
+17.3,Moderate,Bulking
+17.2,Sedentary,Bulking
+29.7,Sedentary,Weight Loss
+23.3,Sedentary,Weight Loss
+24.8,Moderate,Weight Loss
+19.6,Active,Lean Muscle Gain
+26.1,Active,Weight Loss
+20.3,Moderate,Lean Muscle Gain
+21.2,Sedentary,Lean Muscle Gain
+14.0,Active,Lean Muscle Gain
+25.2,Active,Weight Loss
+30.8,Moderate,Weight Loss
+20.1,Sedentary,Lean Muscle Gain
+19.6,Sedentary,Lean Muscle Gain
+35.1,Active,Weight Loss
+30.3,Moderate,Weight Loss
+39.2,Sedentary,Weight Loss
+31.1,Moderate,Weight Loss
+33.4,Moderate,Weight Loss
+17.1,Active,Lean Muscle Gain
+16.6,Moderate,Bulking
+28.4,Moderate,Weight Loss
+22.7,Moderate,Lean Muscle Gain
+22.5,Active,Lean Muscle Gain
+26.0,Active,Lean Muscle Gain
+30.4,Sedentary,Weight Loss
+29.9,Moderate,Weight Loss
+28.4,Moderate,Weight Loss
+21.0,Moderate,Lean Muscle Gain
+28.4,Sedentary,Weight Loss
+36.1,Moderate,Weight Loss
+26.6,Sedentary,Weight Loss
+23.8,Active,Weight Loss
+27.9,Moderate,Weight Loss
+16.6,Moderate,Bulking
+26.4,Active,Weight Loss
+20.7,Active,Lean Muscle Gain
+39.6,Active,Weight Loss
+27.2,Sedentary,Weight Loss
+21.4,Active,Weight Loss
+28.5,Sedentary,Weight Loss
+28.0,Moderate,Weight Loss
+21.6,Moderate,Lean Muscle Gain
+20.9,Sedentary,Weight Loss
+23.5,Moderate,Lean Muscle Gain
+32.8,Sedentary,Weight Loss
+15.5,Sedentary,Bulking
+25.1,Moderate,Weight Loss
+26.4,Active,Weight Loss
+29.6,Active,Weight Loss
+28.1,Moderate,Weight Loss
+32.5,Sedentary,Weight Loss
+18.5,Active,Lean Muscle Gain
+20.1,Moderate,Lean Muscle Gain
+34.9,Moderate,Weight Loss
+24.8,Active,Lean Muscle Gain
+38.5,Active,Weight Loss
+19.4,Sedentary,Lean Muscle Gain
+33.0,Moderate,Weight Loss
+37.0,Sedentary,Weight Loss
+24.3,Moderate,Weight Loss
+27.0,Moderate,Weight Loss
+23.4,Active,Lean Muscle Gain
+22.4,Sedentary,Weight Loss
+26.5,Moderate,Bulking
+18.2,Sedentary,Bulking
+23.0,Moderate,Lean Muscle Gain
+22.2,Sedentary,Lean Muscle Gain
+28.2,Active,Weight Loss
+16.8,Sedentary,Weight Loss
+23.7,Moderate,Lean Muscle Gain
+19.3,Moderate,Lean Muscle Gain
+26.0,Active,Weight Loss
+29.7,Sedentary,Weight Loss
+29.8,Sedentary,Weight Loss
+24.1,Active,Lean Muscle Gain
+23.4,Active,Lean Muscle Gain
+18.4,Sedentary,Bulking
+19.8,Active,Lean Muscle Gain
+15.3,Active,Lean Muscle Gain
+38.5,Sedentary,Weight Loss
+21.6,Active,Weight Loss
+26.4,Moderate,Weight Loss
+35.9,Moderate,Weight Loss
+22.9,Sedentary,Lean Muscle Gain
+26.4,Moderate,Weight Loss
+18.3,Active,Lean Muscle Gain
+35.5,Moderate,Weight Loss
+32.3,Active,Weight Loss
+14.0,Active,Lean Muscle Gain
+14.7,Sedentary,Bulking
+31.1,Sedentary,Weight Loss
+30.2,Moderate,Weight Loss
+28.7,Moderate,Weight Loss
+34.9,Sedentary,Weight Loss
+19.0,Active,Lean Muscle Gain
+27.0,Moderate,Weight Loss
+17.5,Active,Lean Muscle Gain
+31.0,Active,Weight Loss
+22.0,Sedentary,Lean Muscle Gain
+30.7,Active,Weight Loss
+22.8,Moderate,Lean Muscle Gain
+26.0,Active,Lean Muscle Gain
+19.1,Sedentary,Lean Muscle Gain
+30.2,Sedentary,Weight Loss
+31.3,Moderate,Weight Loss
+18.7,Sedentary,Lean Muscle Gain
+23.7,Active,Lean Muscle Gain
+33.1,Sedentary,Weight Loss
+25.8,Sedentary,Weight Loss
+35.9,Sedentary,Bulking
+24.9,Active,Lean Muscle Gain
+26.5,Sedentary,Weight Loss
+30.9,Active,Weight Loss
+23.1,Moderate,Lean Muscle Gain
+31.9,Moderate,Weight Loss
+26.1,Moderate,Bulking
+20.5,Active,Lean Muscle Gain
+19.1,Active,Lean Muscle Gain
+31.3,Active,Weight Loss
+25.6,Sedentary,Weight Loss
+26.1,Active,Weight Loss
+25.0,Sedentary,Weight Loss
+21.0,Sedentary,Weight Loss
+26.1,Sedentary,Weight Loss
+23.0,Moderate,Lean Muscle Gain
+28.8,Moderate,Lean Muscle Gain
+30.8,Active,Weight Loss
+29.0,Sedentary,Weight Loss
+31.1,Moderate,Weight Loss
+29.1,Sedentary,Weight Loss
+32.7,Moderate,Weight Loss
+33.1,Sedentary,Weight Loss
+31.2,Active,Lean Muscle Gain
+29.9,Moderate,Weight Loss
+25.8,Active,Weight Loss
+31.8,Active,Weight Loss
+24.5,Active,Lean Muscle Gain
+25.6,Active,Weight Loss
+22.2,Active,Lean Muscle Gain
+32.5,Active,Weight Loss
+19.6,Sedentary,Lean Muscle Gain
+25.9,Sedentary,Weight Loss
+35.3,Moderate,Weight Loss
+26.5,Active,Lean Muscle Gain
+24.9,Active,Weight Loss
+32.3,Sedentary,Lean Muscle Gain
+20.9,Sedentary,Lean Muscle Gain
+20.2,Active,Lean Muscle Gain
+23.8,Sedentary,Weight Loss
+24.9,Moderate,Lean Muscle Gain
+24.2,Sedentary,Bulking
+23.5,Active,Lean Muscle Gain
+19.7,Sedentary,Lean Muscle Gain
+30.0,Moderate,Weight Loss
+26.2,Active,Weight Loss
+28.7,Moderate,Weight Loss
+22.0,Moderate,Lean Muscle Gain
+27.8,Moderate,Weight Loss
+28.0,Sedentary,Weight Loss
+28.8,Active,Weight Loss
+39.7,Moderate,Weight Loss
+24.5,Sedentary,Weight Loss
+30.7,Active,Lean Muscle Gain
+20.0,Sedentary,Lean Muscle Gain
+26.0,Sedentary,Weight Loss
+28.3,Sedentary,Weight Loss
+31.5,Moderate,Weight Loss
+16.7,Sedentary,Lean Muscle Gain
+20.6,Moderate,Lean Muscle Gain
+25.3,Active,Lean Muscle Gain
+31.2,Moderate,Weight Loss
+27.5,Active,Lean Muscle Gain
+28.8,Active,Lean Muscle Gain
+28.0,Moderate,Weight Loss
+30.1,Active,Weight Loss
+24.0,Active,Lean Muscle Gain
+25.9,Active,Weight Loss
+25.2,Active,Weight Loss
+32.7,Active,Weight Loss
+16.8,Sedentary,Bulking
+29.5,Moderate,Weight Loss
+24.7,Moderate,Weight Loss
+23.0,Moderate,Lean Muscle Gain
+28.1,Active,Weight Loss
+21.3,Sedentary,Lean Muscle Gain
+22.1,Moderate,Lean Muscle Gain
+25.8,Active,Lean Muscle Gain
+27.2,Active,Weight Loss
+21.8,Active,Lean Muscle Gain
+29.4,Moderate,Weight Loss
+31.5,Moderate,Weight Loss
+16.3,Active,Lean Muscle Gain
+14.0,Sedentary,Bulking
+31.7,Active,Weight Loss
+32.9,Moderate,Weight Loss
+28.9,Sedentary,Weight Loss
+24.4,Moderate,Lean Muscle Gain
+18.3,Moderate,Bulking
+18.0,Sedentary,Bulking
+27.4,Moderate,Weight Loss
+29.1,Active,Lean Muscle Gain
+27.1,Active,Weight Loss
+27.7,Active,Weight Loss
+32.5,Sedentary,Bulking
+27.9,Sedentary,Weight Loss
+27.2,Sedentary,Weight Loss
+15.5,Moderate,Bulking
+30.0,Active,Weight Loss
+21.1,Sedentary,Weight Loss
+27.0,Moderate,Weight Loss
+24.6,Sedentary,Weight Loss
+30.6,Sedentary,Weight Loss
+30.1,Sedentary,Weight Loss
+24.9,Sedentary,Weight Loss
+22.7,Moderate,Lean Muscle Gain
+19.7,Sedentary,Lean Muscle Gain
+25.2,Moderate,Weight Loss
+26.2,Moderate,Weight Loss
+18.6,Active,Lean Muscle Gain
+33.4,Moderate,Weight Loss
+30.5,Sedentary,Lean Muscle Gain
+27.2,Moderate,Weight Loss
+24.0,Moderate,Lean Muscle Gain
+28.9,Moderate,Weight Loss
+36.9,Moderate,Weight Loss
+35.1,Active,Weight Loss
+22.2,Sedentary,Weight Loss
+28.1,Active,Weight Loss
+21.6,Moderate,Lean Muscle Gain
+25.2,Moderate,Weight Loss
+25.7,Sedentary,Bulking
+27.9,Sedentary,Weight Loss
+22.5,Active,Lean Muscle Gain
+27.3,Moderate,Weight Loss
+31.2,Moderate,Weight Loss
+15.6,Sedentary,Bulking
+37.0,Moderate,Weight Loss
+28.6,Active,Weight Loss
+31.8,Active,Weight Loss
+33.3,Active,Weight Loss
+29.7,Moderate,Weight Loss
+26.9,Sedentary,Weight Loss
+23.3,Moderate,Lean Muscle Gain
+14.0,Moderate,Bulking
+26.4,Sedentary,Weight Loss
+17.2,Sedentary,Bulking
+32.0,Active,Weight Loss
+14.0,Moderate,Bulking
+26.5,Sedentary,Weight Loss
+34.0,Moderate,Weight Loss
+30.1,Sedentary,Weight Loss
+28.0,Sedentary,Weight Loss
+14.0,Active,Lean Muscle Gain
+23.4,Moderate,Lean Muscle Gain
+23.8,Sedentary,Weight Loss
+29.4,Sedentary,Weight Loss
+24.5,Active,Weight Loss
+22.1,Active,Weight Loss
+14.0,Sedentary,Bulking
+24.2,Active,Lean Muscle Gain
+31.5,Active,Weight Loss
+31.6,Moderate,Weight Loss
+18.8,Moderate,Lean Muscle Gain
+20.7,Moderate,Lean Muscle Gain
+27.9,Moderate,Weight Loss
+24.4,Moderate,Lean Muscle Gain
+24.8,Sedentary,Lean Muscle Gain
+28.7,Moderate,Weight Loss
+25.8,Sedentary,Weight Loss
+19.1,Moderate,Lean Muscle Gain
+22.4,Sedentary,Lean Muscle Gain
+27.0,Sedentary,Weight Loss
+33.6,Moderate,Weight Loss
+32.1,Moderate,Weight Loss
+17.6,Sedentary,Bulking
+32.7,Moderate,Weight Loss
+23.4,Sedentary,Weight Loss
+33.0,Active,Weight Loss
+34.5,Sedentary,Weight Loss
+21.2,Moderate,Bulking
+17.1,Moderate,Bulking
+25.0,Sedentary,Weight Loss
+34.7,Moderate,Weight Loss
+16.7,Sedentary,Bulking
+15.1,Active,Lean Muscle Gain
+34.7,Active,Weight Loss
+27.0,Sedentary,Weight Loss
+23.5,Active,Lean Muscle Gain
+27.4,Sedentary,Weight Loss
+22.2,Sedentary,Lean Muscle Gain
+22.4,Active,Lean Muscle Gain
+20.0,Moderate,Lean Muscle Gain
+26.0,Sedentary,Weight Loss
+25.5,Active,Weight Loss
+32.9,Sedentary,Weight Loss
+30.7,Sedentary,Weight Loss
+21.0,Moderate,Lean Muscle Gain
+21.5,Moderate,Lean Muscle Gain
+25.4,Sedentary,Weight Loss
+25.3,Sedentary,Weight Loss
+25.2,Active,Weight Loss
+17.5,Sedentary,Bulking
+20.8,Active,Lean Muscle Gain
+31.2,Active,Weight Loss
+28.4,Sedentary,Weight Loss
+22.3,Moderate,Lean Muscle Gain
+21.5,Sedentary,Bulking
+20.8,Active,Lean Muscle Gain
+21.1,Moderate,Lean Muscle Gain
+29.0,Moderate,Weight Loss
+15.7,Moderate,Bulking
+31.3,Moderate,Weight Loss
+21.9,Active,Lean Muscle Gain
+29.9,Active,Weight Loss
+17.1,Moderate,Bulking
+25.2,Moderate,Weight Loss
+20.4,Active,Lean Muscle Gain
+28.8,Active,Weight Loss
+15.7,Active,Lean Muscle Gain
+24.1,Moderate,Weight Loss
+21.8,Moderate,Lean Muscle Gain
+20.1,Sedentary,Lean Muscle Gain
+26.0,Sedentary,Weight Loss
+15.7,Active,Lean Muscle Gain
+14.1,Sedentary,Bulking
+24.9,Moderate,Weight Loss
+27.3,Moderate,Weight Loss
+25.4,Sedentary,Weight Loss
+29.7,Moderate,Weight Loss
+27.6,Sedentary,Weight Loss
+27.0,Moderate,Weight Loss
+20.9,Sedentary,Lean Muscle Gain
+18.0,Sedentary,Bulking
+21.7,Moderate,Lean Muscle Gain
+29.9,Active,Weight Loss
+35.1,Moderate,Weight Loss
+36.4,Sedentary,Weight Loss
+22.4,Moderate,Lean Muscle Gain
+32.0,Moderate,Weight Loss
+28.5,Active,Weight Loss
+21.9,Moderate,Lean Muscle Gain
+25.5,Moderate,Weight Loss
+28.3,Sedentary,Weight Loss
+30.5,Sedentary,Weight Loss
+15.4,Moderate,Bulking
+26.7,Moderate,Weight Loss
+24.3,Sedentary,Weight Loss
+30.7,Active,Weight Loss
+14.0,Sedentary,Bulking
+22.8,Active,Lean Muscle Gain
+28.8,Sedentary,Lean Muscle Gain
+19.2,Active,Lean Muscle Gain
+27.5,Moderate,Weight Loss
+25.9,Sedentary,Weight Loss
+23.0,Sedentary,Weight Loss
+22.8,Active,Lean Muscle Gain
+20.8,Sedentary,Lean Muscle Gain
+27.6,Sedentary,Weight Loss
+32.1,Moderate,Weight Loss
+16.8,Active,Lean Muscle Gain
+23.7,Moderate,Lean Muscle Gain
+21.5,Moderate,Lean Muscle Gain
+14.0,Sedentary,Bulking
+25.7,Sedentary,Weight Loss
+18.3,Moderate,Bulking
+24.9,Active,Lean Muscle Gain
+28.5,Active,Weight Loss
+24.8,Moderate,Weight Loss
+19.4,Active,Lean Muscle Gain
+19.8,Sedentary,Weight Loss
+14.0,Sedentary,Bulking
+23.8,Moderate,Weight Loss
+22.7,Sedentary,Weight Loss
+19.3,Sedentary,Lean Muscle Gain
+14.0,Sedentary,Bulking
+25.5,Sedentary,Lean Muscle Gain
+35.3,Sedentary,Weight Loss
+31.6,Active,Bulking
+28.5,Sedentary,Weight Loss
+26.4,Active,Lean Muscle Gain
+24.9,Active,Lean Muscle Gain
+26.7,Moderate,Lean Muscle Gain
+20.8,Sedentary,Lean Muscle Gain
+16.5,Moderate,Lean Muscle Gain
+34.0,Moderate,Weight Loss
+30.8,Moderate,Weight Loss
+24.7,Active,Lean Muscle Gain
+33.7,Active,Weight Loss
+35.8,Moderate,Weight Loss
+28.3,Active,Weight Loss
+23.7,Moderate,Weight Loss
+23.7,Moderate,Weight Loss
+23.3,Moderate,Lean Muscle Gain
+30.0,Sedentary,Weight Loss
+20.1,Moderate,Lean Muscle Gain
+29.0,Active,Weight Loss
+32.0,Sedentary,Weight Loss
+27.4,Active,Lean Muscle Gain
+21.1,Active,Lean Muscle Gain
+26.9,Sedentary,Weight Loss
+35.2,Active,Weight Loss
+35.9,Active,Weight Loss
+28.7,Sedentary,Weight Loss
+24.2,Sedentary,Weight Loss
+17.7,Active,Lean Muscle Gain
+23.7,Moderate,Lean Muscle Gain
+19.9,Sedentary,Weight Loss
+21.9,Sedentary,Lean Muscle Gain
+18.3,Moderate,Bulking
+16.3,Active,Lean Muscle Gain
+18.4,Moderate,Bulking
+35.4,Moderate,Weight Loss
+22.6,Sedentary,Bulking
+32.0,Sedentary,Weight Loss
+21.6,Sedentary,Lean Muscle Gain
+29.4,Moderate,Weight Loss
+19.0,Moderate,Lean Muscle Gain
+29.7,Sedentary,Weight Loss
+21.7,Active,Bulking
+28.3,Active,Weight Loss
+22.0,Active,Lean Muscle Gain
+21.2,Sedentary,Lean Muscle Gain
+17.1,Active,Lean Muscle Gain
+19.7,Moderate,Lean Muscle Gain
+21.8,Active,Lean Muscle Gain
+31.9,Active,Weight Loss
+23.2,Moderate,Weight Loss
+16.5,Sedentary,Bulking
+18.0,Moderate,Bulking
+25.8,Sedentary,Weight Loss
+14.4,Active,Lean Muscle Gain
+31.2,Sedentary,Weight Loss
+23.8,Sedentary,Weight Loss
+25.9,Moderate,Weight Loss
+27.0,Active,Lean Muscle Gain
+23.4,Sedentary,Weight Loss
+19.0,Moderate,Lean Muscle Gain
+19.3,Moderate,Lean Muscle Gain
+19.3,Moderate,Lean Muscle Gain
+22.1,Sedentary,Weight Loss
+29.3,Moderate,Weight Loss
+25.6,Sedentary,Weight Loss
+18.2,Moderate,Bulking
+25.4,Active,Weight Loss
+28.1,Moderate,Weight Loss
+18.3,Sedentary,Bulking
+28.4,Sedentary,Weight Loss
+20.1,Moderate,Lean Muscle Gain
+24.0,Sedentary,Weight Loss
+22.0,Active,Weight Loss
+16.6,Sedentary,Bulking
+24.5,Sedentary,Weight Loss
+20.0,Sedentary,Weight Loss
+22.3,Active,Lean Muscle Gain
+37.1,Moderate,Weight Loss
+23.2,Active,Lean Muscle Gain
+26.3,Active,Lean Muscle Gain
+20.7,Active,Lean Muscle Gain
+21.9,Moderate,Weight Loss
+22.8,Sedentary,Lean Muscle Gain
+28.1,Sedentary,Bulking
+23.4,Sedentary,Weight Loss
+20.8,Active,Lean Muscle Gain
+31.2,Moderate,Weight Loss
+28.0,Sedentary,Weight Loss
+25.7,Sedentary,Weight Loss
+16.4,Sedentary,Bulking
+18.1,Moderate,Bulking
+28.2,Moderate,Weight Loss
+17.6,Active,Lean Muscle Gain
+26.3,Active,Weight Loss
+23.0,Sedentary,Weight Loss
+22.6,Active,Lean Muscle Gain
+19.8,Sedentary,Lean Muscle Gain
+31.9,Sedentary,Weight Loss
+27.3,Active,Weight Loss
+20.4,Moderate,Lean Muscle Gain
+26.8,Sedentary,Weight Loss
+24.6,Moderate,Weight Loss
+23.2,Active,Lean Muscle Gain
+14.0,Sedentary,Bulking
+32.8,Moderate,Weight Loss
+24.9,Sedentary,Weight Loss
+26.5,Active,Weight Loss
+22.2,Active,Lean Muscle Gain
+18.1,Moderate,Bulking
+37.1,Active,Weight Loss
+22.1,Active,Lean Muscle Gain
+26.8,Active,Weight Loss
+28.5,Active,Weight Loss
+22.2,Moderate,Lean Muscle Gain
+19.0,Active,Lean Muscle Gain
+20.9,Sedentary,Weight Loss
+27.1,Active,Weight Loss
+27.9,Active,Lean Muscle Gain
+19.2,Moderate,Lean Muscle Gain
+25.9,Sedentary,Weight Loss
+26.5,Moderate,Weight Loss
+24.6,Sedentary,Lean Muscle Gain
+27.3,Moderate,Weight Loss
+20.8,Moderate,Lean Muscle Gain
+31.0,Active,Weight Loss
+37.3,Active,Weight Loss
+27.0,Sedentary,Bulking
+21.1,Moderate,Bulking
+14.0,Active,Bulking
+23.2,Active,Lean Muscle Gain
+21.1,Moderate,Lean Muscle Gain
+25.9,Moderate,Weight Loss
+32.4,Moderate,Weight Loss
+25.7,Active,Lean Muscle Gain
+20.6,Sedentary,Lean Muscle Gain
+25.2,Sedentary,Weight Loss
+18.3,Active,Lean Muscle Gain
+24.3,Sedentary,Weight Loss
+24.5,Sedentary,Weight Loss
+28.8,Active,Weight Loss
+23.5,Moderate,Weight Loss
+14.0,Active,Lean Muscle Gain
+38.7,Moderate,Weight Loss
+25.6,Moderate,Weight Loss
+21.3,Active,Lean Muscle Gain
+24.8,Sedentary,Weight Loss
+38.8,Moderate,Weight Loss
+22.0,Sedentary,Lean Muscle Gain
+32.0,Sedentary,Weight Loss
+25.7,Active,Lean Muscle Gain
+14.0,Moderate,Bulking
+16.4,Moderate,Bulking
+20.3,Sedentary,Weight Loss
+23.8,Active,Lean Muscle Gain
+24.9,Active,Bulking
+31.5,Sedentary,Weight Loss
+22.8,Active,Lean Muscle Gain
+18.3,Sedentary,Bulking
+15.5,Sedentary,Bulking
+30.4,Moderate,Weight Loss
+29.9,Sedentary,Weight Loss
+28.2,Moderate,Weight Loss
+31.5,Moderate,Weight Loss
+28.6,Active,Weight Loss
+28.1,Active,Weight Loss
+24.0,Active,Lean Muscle Gain
+26.2,Active,Lean Muscle Gain
+29.6,Moderate,Weight Loss
+28.4,Active,Weight Loss
+30.5,Active,Bulking
+21.6,Sedentary,Weight Loss
+28.7,Sedentary,Weight Loss
+36.0,Active,Weight Loss
+20.5,Moderate,Lean Muscle Gain
+33.4,Active,Weight Loss
+23.5,Active,Lean Muscle Gain
+24.5,Active,Lean Muscle Gain
+22.9,Sedentary,Bulking
+19.2,Sedentary,Lean Muscle Gain
+22.4,Active,Lean Muscle Gain
+24.1,Sedentary,Weight Loss
+20.7,Sedentary,Lean Muscle Gain
+34.1,Active,Weight Loss
+37.2,Sedentary,Weight Loss
+18.3,Moderate,Lean Muscle Gain
+25.6,Active,Weight Loss
+14.2,Sedentary,Bulking
+22.9,Sedentary,Weight Loss
+26.4,Sedentary,Weight Loss
+30.4,Sedentary,Weight Loss
+24.9,Sedentary,Weight Loss
+27.4,Moderate,Weight Loss
+22.4,Moderate,Lean Muscle Gain
+31.1,Active,Weight Loss
+37.2,Sedentary,Weight Loss
+25.5,Active,Weight Loss
+26.9,Active,Lean Muscle Gain
+22.9,Moderate,Lean Muscle Gain
+36.8,Sedentary,Weight Loss
+31.8,Sedentary,Weight Loss
+15.9,Active,Lean Muscle Gain
+26.4,Active,Weight Loss
+20.9,Sedentary,Weight Loss
+25.5,Sedentary,Weight Loss
+19.5,Moderate,Lean Muscle Gain
+25.2,Moderate,Weight Loss
+41.0,Active,Weight Loss
+30.7,Active,Weight Loss
+33.2,Sedentary,Weight Loss
+20.0,Moderate,Lean Muscle Gain
+34.1,Active,Weight Loss
+35.2,Active,Weight Loss
+23.8,Sedentary,Weight Loss
+31.8,Active,Weight Loss
+30.3,Moderate,Weight Loss
+29.7,Active,Lean Muscle Gain
+33.6,Moderate,Weight Loss
+32.8,Active,Weight Loss
+21.8,Active,Weight Loss
+30.1,Sedentary,Weight Loss
+26.1,Active,Weight Loss
+25.9,Sedentary,Weight Loss
+30.8,Active,Bulking
+18.2,Active,Lean Muscle Gain
+35.4,Sedentary,Weight Loss
+29.0,Active,Lean Muscle Gain
+24.2,Moderate,Weight Loss
+15.3,Active,Lean Muscle Gain
+23.3,Active,Lean Muscle Gain
+31.2,Moderate,Weight Loss
+25.4,Active,Weight Loss
+22.9,Sedentary,Lean Muscle Gain
+33.9,Active,Weight Loss
+22.1,Active,Lean Muscle Gain
+32.8,Moderate,Lean Muscle Gain
+23.9,Moderate,Weight Loss
+27.9,Moderate,Weight Loss
+28.0,Sedentary,Weight Loss
+20.8,Active,Lean Muscle Gain
+34.3,Moderate,Weight Loss
+19.2,Sedentary,Weight Loss
+30.6,Sedentary,Lean Muscle Gain
+30.3,Moderate,Weight Loss
+26.3,Moderate,Weight Loss
+19.8,Active,Lean Muscle Gain
+31.8,Active,Weight Loss
+22.1,Moderate,Lean Muscle Gain
+30.2,Sedentary,Weight Loss
+28.6,Active,Weight Loss
+24.0,Moderate,Weight Loss
+27.8,Active,Weight Loss
+30.4,Sedentary,Weight Loss
+21.1,Active,Lean Muscle Gain
+22.6,Sedentary,Lean Muscle Gain
+22.4,Sedentary,Lean Muscle Gain
+25.8,Sedentary,Weight Loss
+26.7,Active,Bulking
+20.0,Sedentary,Lean Muscle Gain
+22.6,Sedentary,Weight Loss
+27.9,Moderate,Weight Loss
+30.8,Moderate,Weight Loss
+34.6,Active,Weight Loss
+25.8,Moderate,Weight Loss
+23.0,Sedentary,Weight Loss
+21.7,Moderate,Lean Muscle Gain
+24.0,Sedentary,Weight Loss
+15.8,Moderate,Bulking
+18.2,Moderate,Bulking
+14.0,Sedentary,Bulking
+23.9,Sedentary,Weight Loss
+25.1,Moderate,Weight Loss
+28.3,Active,Lean Muscle Gain
+27.6,Active,Bulking
+25.1,Moderate,Weight Loss
+23.4,Sedentary,Weight Loss
+17.3,Active,Lean Muscle Gain
+17.6,Active,Lean Muscle Gain
+16.2,Sedentary,Bulking
+26.0,Sedentary,Weight Loss
+26.5,Sedentary,Weight Loss
+22.6,Sedentary,Weight Loss
+23.9,Sedentary,Weight Loss
+20.8,Moderate,Lean Muscle Gain
+24.8,Active,Lean Muscle Gain
+25.1,Active,Weight Loss
+26.4,Sedentary,Weight Loss
+22.7,Moderate,Lean Muscle Gain
+23.1,Active,Lean Muscle Gain
+27.0,Active,Weight Loss
+22.8,Sedentary,Lean Muscle Gain
+23.4,Active,Weight Loss
+14.0,Moderate,Bulking
+25.0,Sedentary,Weight Loss
+29.6,Moderate,Weight Loss
+31.2,Sedentary,Weight Loss
+20.3,Moderate,Weight Loss
+17.2,Active,Weight Loss
+26.1,Moderate,Weight Loss
+27.7,Moderate,Weight Loss
+27.2,Active,Weight Loss
+25.2,Active,Weight Loss
+28.7,Active,Weight Loss
+27.6,Active,Weight Loss
+25.1,Moderate,Weight Loss
+29.3,Active,Lean Muscle Gain
+17.2,Moderate,Bulking
+23.1,Moderate,Lean Muscle Gain
+25.0,Moderate,Weight Loss
+25.4,Active,Weight Loss
+17.1,Sedentary,Bulking
+20.2,Sedentary,Lean Muscle Gain
+27.0,Moderate,Weight Loss
+16.9,Sedentary,Weight Loss
+15.4,Sedentary,Bulking
+29.7,Sedentary,Weight Loss
+16.4,Sedentary,Bulking
+17.7,Moderate,Bulking
+29.4,Active,Weight Loss
+26.3,Sedentary,Weight Loss
+23.9,Sedentary,Weight Loss
+14.0,Moderate,Bulking
+35.1,Sedentary,Weight Loss
+23.9,Active,Lean Muscle Gain
+30.5,Active,Weight Loss
+21.1,Active,Lean Muscle Gain
+20.2,Moderate,Lean Muscle Gain
+25.1,Active,Weight Loss
+29.3,Active,Weight Loss
+29.1,Active,Weight Loss
+32.2,Sedentary,Weight Loss
+22.0,Moderate,Lean Muscle Gain
+24.5,Sedentary,Bulking
+24.0,Sedentary,Weight Loss
+21.7,Active,Lean Muscle Gain
+24.8,Active,Weight Loss
+23.7,Moderate,Lean Muscle Gain
+33.9,Moderate,Weight Loss
+22.1,Moderate,Lean Muscle Gain
+19.9,Sedentary,Lean Muscle Gain
+19.5,Moderate,Lean Muscle Gain
+29.2,Moderate,Weight Loss
+20.5,Sedentary,Lean Muscle Gain
+25.8,Sedentary,Weight Loss
+14.5,Moderate,Bulking
+27.9,Active,Lean Muscle Gain
+24.1,Moderate,Lean Muscle Gain
+17.8,Active,Lean Muscle Gain
+23.9,Active,Lean Muscle Gain
+22.5,Moderate,Lean Muscle Gain
+30.7,Sedentary,Weight Loss
+28.9,Sedentary,Weight Loss
+18.3,Active,Lean Muscle Gain
+20.7,Sedentary,Lean Muscle Gain
+36.3,Moderate,Bulking
+15.9,Active,Lean Muscle Gain
+22.9,Moderate,Lean Muscle Gain
+35.9,Moderate,Weight Loss
+25.2,Moderate,Weight Loss
+19.0,Moderate,Lean Muscle Gain
+23.3,Active,Lean Muscle Gain
+29.2,Active,Lean Muscle Gain
+22.6,Active,Lean Muscle Gain
+25.4,Moderate,Weight Loss
+21.2,Sedentary,Lean Muscle Gain
+32.3,Moderate,Weight Loss
+19.8,Active,Lean Muscle Gain
+23.5,Moderate,Bulking
+21.3,Active,Lean Muscle Gain
+33.3,Active,Weight Loss
+31.9,Active,Weight Loss
+22.5,Sedentary,Lean Muscle Gain
+26.6,Sedentary,Weight Loss
+25.2,Sedentary,Weight Loss
+20.4,Moderate,Lean Muscle Gain
+34.1,Moderate,Weight Loss
+21.3,Sedentary,Lean Muscle Gain
+20.0,Sedentary,Weight Loss
+21.0,Moderate,Lean Muscle Gain
+26.7,Active,Weight Loss
+18.6,Active,Lean Muscle Gain
+22.6,Active,Lean Muscle Gain
+36.2,Moderate,Weight Loss
+19.6,Active,Lean Muscle Gain
+33.7,Sedentary,Weight Loss
+29.7,Active,Weight Loss
+40.1,Sedentary,Weight Loss
+37.9,Active,Weight Loss
+19.1,Sedentary,Lean Muscle Gain
+31.3,Sedentary,Lean Muscle Gain
+32.0,Active,Weight Loss
+28.4,Sedentary,Weight Loss
+24.6,Moderate,Lean Muscle Gain
+24.8,Active,Lean Muscle Gain
+37.6,Active,Weight Loss
+26.6,Active,Weight Loss
+26.8,Sedentary,Weight Loss
+32.3,Sedentary,Weight Loss
+31.2,Sedentary,Weight Loss
+24.6,Moderate,Weight Loss
+23.5,Active,Lean Muscle Gain
+29.1,Active,Weight Loss
+33.9,Active,Weight Loss
+28.0,Active,Weight Loss
+27.8,Active,Weight Loss
+25.9,Active,Lean Muscle Gain
+35.3,Sedentary,Weight Loss
+14.7,Sedentary,Bulking
+26.7,Sedentary,Bulking
+37.8,Active,Weight Loss
+20.5,Moderate,Lean Muscle Gain
+37.0,Sedentary,Weight Loss
+20.4,Moderate,Lean Muscle Gain
+22.1,Sedentary,Lean Muscle Gain
+14.4,Active,Weight Loss
+30.9,Moderate,Weight Loss
+19.0,Sedentary,Weight Loss
+33.9,Sedentary,Weight Loss
+25.5,Active,Lean Muscle Gain
+23.0,Active,Lean Muscle Gain
+21.3,Active,Lean Muscle Gain
+23.4,Sedentary,Weight Loss
+25.9,Moderate,Weight Loss
+24.2,Moderate,Weight Loss
+27.0,Sedentary,Weight Loss
+22.2,Sedentary,Weight Loss
+31.2,Sedentary,Weight Loss
+14.0,Active,Lean Muscle Gain
+18.7,Sedentary,Lean Muscle Gain
+20.4,Active,Lean Muscle Gain
+33.9,Active,Lean Muscle Gain
+33.8,Moderate,Weight Loss
+26.0,Sedentary,Weight Loss
+34.4,Active,Weight Loss
+21.5,Moderate,Lean Muscle Gain
+19.2,Moderate,Lean Muscle Gain
+26.3,Moderate,Weight Loss
+20.1,Moderate,Lean Muscle Gain
+19.6,Active,Lean Muscle Gain
+15.5,Active,Lean Muscle Gain
+14.0,Active,Lean Muscle Gain
+21.3,Sedentary,Weight Loss
+18.6,Active,Lean Muscle Gain

@@ -1,0 +1,906 @@
+{
+  "oats": {
+    "calories": 194.5,
+    "protein_g": 8.45,
+    "carbs_g": 33.0,
+    "fat_g": 3.45,
+    "fiber_g": 5.3,
+    "cached_at_ts": 1773858493.33531
+  },
+  "green_beans": {
+    "calories": 9.3,
+    "protein_g": 0.54,
+    "carbs_g": 2.1,
+    "fat_g": 0.03,
+    "fiber_g": 1.02,
+    "cached_at_ts": 1773858493.351474
+  },
+  "carrot": {
+    "calories": 12.3,
+    "protein_g": 0.27,
+    "carbs_g": 2.88,
+    "fat_g": 0.06,
+    "fiber_g": 0.84,
+    "cached_at_ts": 1773858493.3644
+  },
+  "peanut": {
+    "calories": 10.0,
+    "protein_g": 0.3,
+    "carbs_g": 1.5,
+    "fat_g": 0.3,
+    "fiber_g": 0.1,
+    "cached_at_ts": 1773858493.375509
+  },
+  "ghee": {
+    "calories": 45.0,
+    "protein_g": 0.0,
+    "carbs_g": 0.0,
+    "fat_g": 5.0,
+    "fiber_g": 0.0,
+    "cached_at_ts": 1773858493.383637
+  },
+  "brown_rice": {
+    "calories": 55.5,
+    "protein_g": 1.3,
+    "carbs_g": 11.5,
+    "fat_g": 0.45,
+    "fiber_g": 0.9,
+    "cached_at_ts": 1773858493.391682
+  },
+  "moong_dal": {
+    "calories": 139.2,
+    "protein_g": 9.6,
+    "carbs_g": 24.0,
+    "fat_g": 0.48,
+    "fiber_g": 6.4,
+    "cached_at_ts": 1773858493.398988
+  },
+  "spinach": {
+    "calories": 23.0,
+    "protein_g": 2.9,
+    "carbs_g": 3.6,
+    "fat_g": 0.4,
+    "fiber_g": 2.2,
+    "cached_at_ts": 1773858493.407947
+  },
+  "onion": {
+    "calories": 20.0,
+    "protein_g": 0.55,
+    "carbs_g": 4.65,
+    "fat_g": 0.05,
+    "fiber_g": 0.85,
+    "cached_at_ts": 1773858493.416799
+  },
+  "chana": {
+    "calories": 49.2,
+    "protein_g": 2.67,
+    "carbs_g": 8.1,
+    "fat_g": 0.78,
+    "fiber_g": 2.28,
+    "cached_at_ts": 1773858493.426108
+  },
+  "lemon": {
+    "calories": 1.45,
+    "protein_g": 0.06,
+    "carbs_g": 0.47,
+    "fat_g": 0.01,
+    "fiber_g": 0.14,
+    "cached_at_ts": 1773858493.433762
+  },
+  "chaat_masala": {
+    "calories": 2.0,
+    "protein_g": 0.06,
+    "carbs_g": 0.3,
+    "fat_g": 0.06,
+    "fiber_g": 0.02,
+    "cached_at_ts": 1773858493.44277
+  },
+  "roti": {
+    "calories": 297.0,
+    "protein_g": 9.0,
+    "carbs_g": 46.0,
+    "fat_g": 8.0,
+    "fiber_g": 9.0,
+    "cached_at_ts": 1773858493.450435
+  },
+  "cauliflower": {
+    "calories": 25.0,
+    "protein_g": 1.9,
+    "carbs_g": 5.0,
+    "fat_g": 0.3,
+    "fiber_g": 2.0,
+    "cached_at_ts": 1773858493.458815
+  },
+  "potato": {
+    "calories": 38.5,
+    "protein_g": 1.0,
+    "carbs_g": 8.75,
+    "fat_g": 0.05,
+    "fiber_g": 1.1,
+    "cached_at_ts": 1773858493.467203
+  },
+  "tomato": {
+    "calories": 9.0,
+    "protein_g": 0.45,
+    "carbs_g": 1.95,
+    "fat_g": 0.1,
+    "fiber_g": 0.6,
+    "cached_at_ts": 1773858493.478348
+  },
+  "poha": {
+    "calories": 90.0,
+    "protein_g": 1.5,
+    "carbs_g": 17.5,
+    "fat_g": 1.25,
+    "fiber_g": 0.75,
+    "cached_at_ts": 1773858493.500487
+  },
+  "peas": {
+    "calories": 24.3,
+    "protein_g": 1.62,
+    "carbs_g": 4.35,
+    "fat_g": 0.12,
+    "fiber_g": 1.53,
+    "cached_at_ts": 1773858493.519773
+  },
+  "olive_oil": {
+    "calories": 44.2,
+    "protein_g": 0.0,
+    "carbs_g": 0.0,
+    "fat_g": 5.0,
+    "fiber_g": 0.0,
+    "cached_at_ts": 1773858493.539525
+  },
+  "rajma": {
+    "calories": 50.8,
+    "protein_g": 3.48,
+    "carbs_g": 9.2,
+    "fat_g": 0.2,
+    "fiber_g": 2.56,
+    "cached_at_ts": 1773858493.550409
+  },
+  "rice": {
+    "calories": 65.0,
+    "protein_g": 1.35,
+    "carbs_g": 14.0,
+    "fat_g": 0.15,
+    "fiber_g": 0.2,
+    "cached_at_ts": 1773858493.561841
+  },
+  "cucumber": {
+    "calories": 15.0,
+    "protein_g": 0.7,
+    "carbs_g": 3.6,
+    "fat_g": 0.1,
+    "fiber_g": 0.5,
+    "cached_at_ts": 1773858493.573728
+  },
+  "black_salt": {
+    "calories": 2.0,
+    "protein_g": 0.06,
+    "carbs_g": 0.3,
+    "fat_g": 0.06,
+    "fiber_g": 0.02,
+    "cached_at_ts": 1773858493.583058
+  },
+  "masoor_dal": {
+    "calories": 140.8,
+    "protein_g": 10.0,
+    "carbs_g": 24.0,
+    "fat_g": 0.44,
+    "fiber_g": 4.4,
+    "cached_at_ts": 1773858493.594639
+  },
+  "besan": {
+    "calories": 193.5,
+    "protein_g": 11.0,
+    "carbs_g": 29.0,
+    "fat_g": 3.35,
+    "fiber_g": 5.5,
+    "cached_at_ts": 1773858493.617473
+  },
+  "coriander": {
+    "calories": 10.0,
+    "protein_g": 0.3,
+    "carbs_g": 1.5,
+    "fat_g": 0.3,
+    "fiber_g": 0.1,
+    "cached_at_ts": 1773858493.633306
+  },
+  "toor_dal": {
+    "calories": 137.2,
+    "protein_g": 8.8,
+    "carbs_g": 25.2,
+    "fat_g": 0.6,
+    "fiber_g": 6.0,
+    "cached_at_ts": 1773858493.650242
+  },
+  "chapati": {
+    "calories": 297.0,
+    "protein_g": 9.0,
+    "carbs_g": 46.0,
+    "fat_g": 8.0,
+    "fiber_g": 9.0,
+    "cached_at_ts": 1773858493.663181
+  },
+  "lauki": {
+    "calories": 14.0,
+    "protein_g": 0.6,
+    "carbs_g": 3.4,
+    "fat_g": 0.0,
+    "fiber_g": 0.5,
+    "cached_at_ts": 1773858493.672511
+  },
+  "moong_sprouts": {
+    "calories": 15.0,
+    "protein_g": 1.5,
+    "carbs_g": 3.0,
+    "fat_g": 0.1,
+    "fiber_g": 0.9,
+    "cached_at_ts": 1773858493.681687
+  },
+  "daliya": {
+    "calories": 50.0,
+    "protein_g": 1.5,
+    "carbs_g": 7.5,
+    "fat_g": 1.5,
+    "fiber_g": 0.5,
+    "cached_at_ts": 1773858493.697968
+  },
+  "vegetable_oil": {
+    "calories": 15.0,
+    "protein_g": 0.45,
+    "carbs_g": 2.25,
+    "fat_g": 0.45,
+    "fiber_g": 0.15,
+    "cached_at_ts": 1773858596.963262
+  },
+  "peanut_butter": {
+    "calories": 294.0,
+    "protein_g": 12.5,
+    "carbs_g": 10.0,
+    "fat_g": 25.0,
+    "fiber_g": 3.0,
+    "cached_at_ts": 1773858596.976811
+  },
+  "banana": {
+    "calories": 178.0,
+    "protein_g": 2.2,
+    "carbs_g": 45.6,
+    "fat_g": 0.6,
+    "fiber_g": 5.2,
+    "cached_at_ts": 1773858596.987258
+  },
+  "soy_milk": {
+    "calories": 33.0,
+    "protein_g": 3.3,
+    "carbs_g": 1.8,
+    "fat_g": 1.5,
+    "fiber_g": 0.6,
+    "cached_at_ts": 1773858596.996722
+  },
+  "oil": {
+    "calories": 15.0,
+    "protein_g": 0.45,
+    "carbs_g": 2.25,
+    "fat_g": 0.45,
+    "fiber_g": 0.15,
+    "cached_at_ts": 1773858597.009571
+  },
+  "soy_chunks": {
+    "calories": 80.0,
+    "protein_g": 2.4,
+    "carbs_g": 12.0,
+    "fat_g": 2.4,
+    "fiber_g": 0.8,
+    "cached_at_ts": 1773858597.024032
+  },
+  "jaggery": {
+    "calories": 153.2,
+    "protein_g": 0.16,
+    "carbs_g": 39.2,
+    "fat_g": 0.04,
+    "fiber_g": 0.0,
+    "cached_at_ts": 1773858597.036926
+  },
+  "mixed_dal": {
+    "calories": 80.0,
+    "protein_g": 2.4,
+    "carbs_g": 12.0,
+    "fat_g": 2.4,
+    "fiber_g": 0.8,
+    "cached_at_ts": 1773858597.059411
+  },
+  "paratha": {
+    "calories": 326.0,
+    "protein_g": 8.0,
+    "carbs_g": 44.0,
+    "fat_g": 13.0,
+    "fiber_g": 4.0,
+    "cached_at_ts": 1773858597.082128
+  },
+  "sugar": {
+    "calories": 30.0,
+    "protein_g": 0.9,
+    "carbs_g": 4.5,
+    "fat_g": 0.9,
+    "fiber_g": 0.3,
+    "cached_at_ts": 1773858597.107263
+  },
+  "soy_yogurt": {
+    "calories": 150.0,
+    "protein_g": 4.5,
+    "carbs_g": 22.5,
+    "fat_g": 4.5,
+    "fiber_g": 1.5,
+    "cached_at_ts": 1773858597.124787
+  },
+  "bread": {
+    "calories": 100.0,
+    "protein_g": 3.0,
+    "carbs_g": 15.0,
+    "fat_g": 3.0,
+    "fiber_g": 1.0,
+    "cached_at_ts": 1773858597.142413
+  },
+  "vegan_butter": {
+    "calories": 15.0,
+    "protein_g": 0.45,
+    "carbs_g": 2.25,
+    "fat_g": 0.45,
+    "fiber_g": 0.15,
+    "cached_at_ts": 1773858597.166602
+  },
+  "chole": {
+    "calories": 164.0,
+    "protein_g": 8.9,
+    "carbs_g": 27.0,
+    "fat_g": 2.6,
+    "fiber_g": 7.6,
+    "cached_at_ts": 1773858597.183082
+  },
+  "tofu": {
+    "calories": 114.0,
+    "protein_g": 12.0,
+    "carbs_g": 2.85,
+    "fat_g": 7.2,
+    "fiber_g": 0.45,
+    "cached_at_ts": 1773858597.203703
+  },
+  "coconut_cream": {
+    "calories": 100.0,
+    "protein_g": 3.0,
+    "carbs_g": 15.0,
+    "fat_g": 3.0,
+    "fiber_g": 1.0,
+    "cached_at_ts": 1773858597.227704
+  },
+  "vegan_protein": {
+    "calories": 30.0,
+    "protein_g": 0.9,
+    "carbs_g": 4.5,
+    "fat_g": 0.9,
+    "fiber_g": 0.3,
+    "cached_at_ts": 1773858597.249098
+  },
+  "avocado": {
+    "calories": 80.0,
+    "protein_g": 1.0,
+    "carbs_g": 4.25,
+    "fat_g": 7.35,
+    "fiber_g": 3.35,
+    "cached_at_ts": 1773858597.280131
+  },
+  "vegan_mayo": {
+    "calories": 20.0,
+    "protein_g": 0.6,
+    "carbs_g": 3.0,
+    "fat_g": 0.6,
+    "fiber_g": 0.2,
+    "cached_at_ts": 1773858597.304653
+  },
+  "mixed_nuts": {
+    "calories": 40.0,
+    "protein_g": 1.2,
+    "carbs_g": 6.0,
+    "fat_g": 1.2,
+    "fiber_g": 0.4,
+    "cached_at_ts": 1773858597.351593
+  },
+  "maple_syrup": {
+    "calories": 20.0,
+    "protein_g": 0.6,
+    "carbs_g": 3.0,
+    "fat_g": 0.6,
+    "fiber_g": 0.2,
+    "cached_at_ts": 1773858597.374742
+  },
+  "naan": {
+    "calories": 290.0,
+    "protein_g": 9.6,
+    "carbs_g": 45.0,
+    "fat_g": 7.5,
+    "fiber_g": 2.2,
+    "cached_at_ts": 1773858597.398283
+  },
+  "cashew": {
+    "calories": 20.0,
+    "protein_g": 0.6,
+    "carbs_g": 3.0,
+    "fat_g": 0.6,
+    "fiber_g": 0.2,
+    "cached_at_ts": 1773858597.423152
+  },
+  "sweet_potato": {
+    "calories": 172.0,
+    "protein_g": 3.2,
+    "carbs_g": 40.2,
+    "fat_g": 0.2,
+    "fiber_g": 6.0,
+    "cached_at_ts": 1773858597.452115
+  },
+  "lentil": {
+    "calories": 80.0,
+    "protein_g": 2.4,
+    "carbs_g": 12.0,
+    "fat_g": 2.4,
+    "fiber_g": 0.8,
+    "cached_at_ts": 1773858597.473766
+  },
+  "coconut_oil": {
+    "calories": 129.3,
+    "protein_g": 0.0,
+    "carbs_g": 0.0,
+    "fat_g": 15.0,
+    "fiber_g": 0.0,
+    "cached_at_ts": 1773858597.494561
+  },
+  "almond": {
+    "calories": 30.0,
+    "protein_g": 0.9,
+    "carbs_g": 4.5,
+    "fat_g": 0.9,
+    "fiber_g": 0.3,
+    "cached_at_ts": 1773858597.511716
+  },
+  "mixed_veggies": {
+    "calories": 100.0,
+    "protein_g": 3.0,
+    "carbs_g": 15.0,
+    "fat_g": 3.0,
+    "fiber_g": 1.0,
+    "cached_at_ts": 1773858597.530242
+  },
+  "multigrain_bread": {
+    "calories": 265.0,
+    "protein_g": 13.4,
+    "carbs_g": 42.0,
+    "fat_g": 4.2,
+    "fiber_g": 7.4,
+    "cached_at_ts": 1773858597.55918
+  },
+  "hummus": {
+    "calories": 132.8,
+    "protein_g": 6.32,
+    "carbs_g": 11.44,
+    "fat_g": 7.68,
+    "fiber_g": 4.8,
+    "cached_at_ts": 1773858597.582962
+  },
+  "pumpkin_seeds": {
+    "calories": 83.85,
+    "protein_g": 4.53,
+    "carbs_g": 1.6,
+    "fat_g": 7.35,
+    "fiber_g": 0.9,
+    "cached_at_ts": 1773858597.606568
+  },
+  "quinoa": {
+    "calories": 144.0,
+    "protein_g": 5.28,
+    "carbs_g": 25.2,
+    "fat_g": 2.28,
+    "fiber_g": 3.36,
+    "cached_at_ts": 1773858597.625804
+  },
+  "edamame": {
+    "calories": 121.0,
+    "protein_g": 11.9,
+    "carbs_g": 8.9,
+    "fat_g": 5.2,
+    "fiber_g": 5.2,
+    "cached_at_ts": 1773858597.644916
+  },
+  "tempeh": {
+    "calories": 192.0,
+    "protein_g": 18.5,
+    "carbs_g": 9.4,
+    "fat_g": 10.8,
+    "fiber_g": 0.0,
+    "cached_at_ts": 1773858597.663877
+  },
+  "tahini": {
+    "calories": 119.0,
+    "protein_g": 3.4,
+    "carbs_g": 4.24,
+    "fat_g": 10.76,
+    "fiber_g": 1.86,
+    "cached_at_ts": 1773858597.685567
+  },
+  "oat_milk": {
+    "calories": 100.0,
+    "protein_g": 3.0,
+    "carbs_g": 15.0,
+    "fat_g": 3.0,
+    "fiber_g": 1.0,
+    "cached_at_ts": 1773858597.717282
+  },
+  "chia_seeds": {
+    "calories": 97.2,
+    "protein_g": 3.3,
+    "carbs_g": 8.42,
+    "fat_g": 6.14,
+    "fiber_g": 6.88,
+    "cached_at_ts": 1773858597.746054
+  },
+  "pasta": {
+    "calories": 196.5,
+    "protein_g": 7.5,
+    "carbs_g": 37.5,
+    "fat_g": 1.65,
+    "fiber_g": 1.8,
+    "cached_at_ts": 1773858597.767834
+  },
+  "mushroom": {
+    "calories": 33.0,
+    "protein_g": 4.65,
+    "carbs_g": 4.95,
+    "fat_g": 0.45,
+    "fiber_g": 1.5,
+    "cached_at_ts": 1773858597.7876
+  },
+  "cashew_cream": {
+    "calories": 100.0,
+    "protein_g": 3.0,
+    "carbs_g": 15.0,
+    "fat_g": 3.0,
+    "fiber_g": 1.0,
+    "cached_at_ts": 1773858597.806058
+  },
+  "nutritional_yeast": {
+    "calories": 120.0,
+    "protein_g": 15.0,
+    "carbs_g": 9.9,
+    "fat_g": 1.5,
+    "fiber_g": 6.0,
+    "cached_at_ts": 1773858597.830224
+  },
+  "pecan": {
+    "calories": 40.0,
+    "protein_g": 1.2,
+    "carbs_g": 6.0,
+    "fat_g": 1.2,
+    "fiber_g": 0.4,
+    "cached_at_ts": 1773858597.873047
+  },
+  "apple": {
+    "calories": 52.0,
+    "protein_g": 0.3,
+    "carbs_g": 13.8,
+    "fat_g": 0.2,
+    "fiber_g": 2.4,
+    "cached_at_ts": 1773858597.899134
+  },
+  "mock_meat_patty": {
+    "calories": 100.0,
+    "protein_g": 3.0,
+    "carbs_g": 15.0,
+    "fat_g": 3.0,
+    "fiber_g": 1.0,
+    "cached_at_ts": 1773858597.971701
+  },
+  "burger_bun": {
+    "calories": 100.0,
+    "protein_g": 3.0,
+    "carbs_g": 15.0,
+    "fat_g": 3.0,
+    "fiber_g": 1.0,
+    "cached_at_ts": 1773858598.07608
+  },
+  "vegan_cheese": {
+    "calories": 20.0,
+    "protein_g": 0.6,
+    "carbs_g": 3.0,
+    "fat_g": 0.6,
+    "fiber_g": 0.2,
+    "cached_at_ts": 1773858598.116841
+  },
+  "sweet_potato_fries": {
+    "calories": 100.0,
+    "protein_g": 3.0,
+    "carbs_g": 15.0,
+    "fat_g": 3.0,
+    "fiber_g": 1.0,
+    "cached_at_ts": 1773858598.14705
+  },
+  "granola": {
+    "calories": 282.6,
+    "protein_g": 6.0,
+    "carbs_g": 38.4,
+    "fat_g": 12.0,
+    "fiber_g": 3.0,
+    "cached_at_ts": 1773858598.17429
+  },
+  "mixed_berries": {
+    "calories": 40.0,
+    "protein_g": 1.2,
+    "carbs_g": 6.0,
+    "fat_g": 1.2,
+    "fiber_g": 0.4,
+    "cached_at_ts": 1773858598.203567
+  },
+  "tofu_kofta": {
+    "calories": 100.0,
+    "protein_g": 3.0,
+    "carbs_g": 15.0,
+    "fat_g": 3.0,
+    "fiber_g": 1.0,
+    "cached_at_ts": 1773858598.231823
+  },
+  "vegan_pancake_mix": {
+    "calories": 100.0,
+    "protein_g": 3.0,
+    "carbs_g": 15.0,
+    "fat_g": 3.0,
+    "fiber_g": 1.0,
+    "cached_at_ts": 1773858598.262885
+  },
+  "almond_milk": {
+    "calories": 15.0,
+    "protein_g": 0.4,
+    "carbs_g": 0.3,
+    "fat_g": 1.2,
+    "fiber_g": 0.2,
+    "cached_at_ts": 1773858598.292402
+  },
+  "almond_butter": {
+    "calories": 40.0,
+    "protein_g": 1.2,
+    "carbs_g": 6.0,
+    "fat_g": 1.2,
+    "fiber_g": 0.4,
+    "cached_at_ts": 1773858598.315305
+  },
+  "berries": {
+    "calories": 50.0,
+    "protein_g": 1.5,
+    "carbs_g": 7.5,
+    "fat_g": 1.5,
+    "fiber_g": 0.5,
+    "cached_at_ts": 1773858598.34155
+  },
+  "jasmine_rice": {
+    "calories": 150.0,
+    "protein_g": 4.5,
+    "carbs_g": 22.5,
+    "fat_g": 4.5,
+    "fiber_g": 1.5,
+    "cached_at_ts": 1773858598.369737
+  },
+  "sesame_oil": {
+    "calories": 20.0,
+    "protein_g": 0.6,
+    "carbs_g": 3.0,
+    "fat_g": 0.6,
+    "fiber_g": 0.2,
+    "cached_at_ts": 1773858598.394271
+  },
+  "soy_sauce": {
+    "calories": 7.95,
+    "protein_g": 1.2,
+    "carbs_g": 0.73,
+    "fat_g": 0.01,
+    "fiber_g": 0.0,
+    "cached_at_ts": 1773858598.417959
+  },
+  "dates": {
+    "calories": 112.8,
+    "protein_g": 1.0,
+    "carbs_g": 30.0,
+    "fat_g": 0.16,
+    "fiber_g": 3.2,
+    "cached_at_ts": 1773858598.442439
+  },
+  "pizza_base": {
+    "calories": 100.0,
+    "protein_g": 3.0,
+    "carbs_g": 15.0,
+    "fat_g": 3.0,
+    "fiber_g": 1.0,
+    "cached_at_ts": 1773858598.468576
+  },
+  "tomato_sauce": {
+    "calories": 50.0,
+    "protein_g": 1.5,
+    "carbs_g": 7.5,
+    "fat_g": 1.5,
+    "fiber_g": 0.5,
+    "cached_at_ts": 1773858598.494138
+  },
+  "curd": {
+    "calories": 98.0,
+    "protein_g": 11.0,
+    "carbs_g": 3.4,
+    "fat_g": 4.3,
+    "fiber_g": 0.0,
+    "cached_at_ts": 1773858742.166948
+  },
+  "green_chili": {
+    "calories": 10.0,
+    "protein_g": 0.3,
+    "carbs_g": 1.5,
+    "fat_g": 0.3,
+    "fiber_g": 0.1,
+    "cached_at_ts": 1773858742.185213
+  },
+  "10mg_spices": {
+    "calories": 100.0,
+    "protein_g": 3.0,
+    "carbs_g": 15.0,
+    "fat_g": 3.0,
+    "fiber_g": 1.0,
+    "cached_at_ts": 1773858742.21756
+  },
+  "paneer": {
+    "calories": 132.5,
+    "protein_g": 9.0,
+    "carbs_g": 1.5,
+    "fat_g": 10.0,
+    "fiber_g": 0.0,
+    "cached_at_ts": 1773858742.245275
+  },
+  "milk": {
+    "calories": 42.0,
+    "protein_g": 3.4,
+    "carbs_g": 5.0,
+    "fat_g": 1.0,
+    "fiber_g": 0.0,
+    "cached_at_ts": 1773858742.295423
+  },
+  "butter": {
+    "calories": 107.55,
+    "protein_g": 0.12,
+    "carbs_g": 0.0,
+    "fat_g": 12.15,
+    "fiber_g": 0.0,
+    "cached_at_ts": 1773858798.95443
+  },
+  "cream": {
+    "calories": 100.0,
+    "protein_g": 3.0,
+    "carbs_g": 15.0,
+    "fat_g": 3.0,
+    "fiber_g": 1.0,
+    "cached_at_ts": 1773858799.004337
+  },
+  "honey": {
+    "calories": 45.6,
+    "protein_g": 0.04,
+    "carbs_g": 12.36,
+    "fat_g": 0.0,
+    "fiber_g": 0.03,
+    "cached_at_ts": 1773858799.039583
+  },
+  "cheese": {
+    "calories": 50.0,
+    "protein_g": 1.5,
+    "carbs_g": 7.5,
+    "fat_g": 1.5,
+    "fiber_g": 0.5,
+    "cached_at_ts": 1773858799.075493
+  },
+  "yogurt": {
+    "calories": 118.0,
+    "protein_g": 20.0,
+    "carbs_g": 7.2,
+    "fat_g": 0.8,
+    "fiber_g": 0.0,
+    "cached_at_ts": 1773858799.10692
+  },
+  "whey_protein": {
+    "calories": 111.0,
+    "protein_g": 24.0,
+    "carbs_g": 1.5,
+    "fat_g": 0.9,
+    "fiber_g": 0.0,
+    "cached_at_ts": 1773858799.15853
+  },
+  "idli": {
+    "calories": 145.0,
+    "protein_g": 4.0,
+    "carbs_g": 30.0,
+    "fat_g": 0.5,
+    "fiber_g": 1.0,
+    "cached_at_ts": 1774515556.251182
+  },
+  "sambar": {
+    "calories": 110.0,
+    "protein_g": 4.0,
+    "carbs_g": 15.0,
+    "fat_g": 3.0,
+    "fiber_g": 3.0,
+    "cached_at_ts": 1774515556.287541
+  },
+  "coconut_chutney": {
+    "calories": 10.0,
+    "protein_g": 0.3,
+    "carbs_g": 1.5,
+    "fat_g": 0.3,
+    "fiber_g": 0.1,
+    "cached_at_ts": 1774515556.319482
+  },
+  "soya_chunks": {
+    "calories": 40.0,
+    "protein_g": 1.2,
+    "carbs_g": 6.0,
+    "fat_g": 1.2,
+    "fiber_g": 0.4,
+    "cached_at_ts": 1774515556.363503
+  },
+  "strawberry": {
+    "calories": 16.0,
+    "protein_g": 0.35,
+    "carbs_g": 3.85,
+    "fat_g": 0.15,
+    "fiber_g": 1.0,
+    "cached_at_ts": 1774515556.423017
+  },
+  "bhindi": {
+    "calories": 49.5,
+    "protein_g": 2.85,
+    "carbs_g": 11.1,
+    "fat_g": 0.3,
+    "fiber_g": 4.8,
+    "cached_at_ts": 1774515556.454679
+  },
+  "broccoli": {
+    "calories": 34.0,
+    "protein_g": 2.8,
+    "carbs_g": 6.6,
+    "fat_g": 0.4,
+    "fiber_g": 2.6,
+    "cached_at_ts": 1774515556.505656
+  },
+  "bell_pepper": {
+    "calories": 10.0,
+    "protein_g": 0.45,
+    "carbs_g": 2.3,
+    "fat_g": 0.1,
+    "fiber_g": 0.85,
+    "cached_at_ts": 1774515556.539755
+  },
+  "makhana": {
+    "calories": 20.0,
+    "protein_g": 0.6,
+    "carbs_g": 3.0,
+    "fat_g": 0.6,
+    "fiber_g": 0.2,
+    "cached_at_ts": 1774515556.573694
+  },
+  "walnut": {
+    "calories": 15.0,
+    "protein_g": 0.45,
+    "carbs_g": 2.25,
+    "fat_g": 0.45,
+    "fiber_g": 0.15,
+    "cached_at_ts": 1774515556.608875
+  },
+  "chana_dal": {
+    "calories": 144.0,
+    "protein_g": 8.8,
+    "carbs_g": 24.0,
+    "fat_g": 2.0,
+    "fiber_g": 4.4,
+    "cached_at_ts": 1774515556.646313
+  }
+}

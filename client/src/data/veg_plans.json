@@ -1,0 +1,1676 @@
+[
+  {
+    "planName": "Staple Lentil Deficit Plan",
+    "fitnessGoal": "Weight Loss",
+    "budgetCategory": "low",
+    "dietaryType": "vegetarian",
+    "meals": {
+      "breakfast": {
+        "name": "Oats Upma with Green Beans",
+        "ingredients": [
+          "50g oats",
+          "30g green beans",
+          "30g carrot",
+          "10g peanuts",
+          "5g ghee"
+        ],
+        "preparation": [
+          "Dry roast oats lightly",
+          "Temper mustard seeds in ghee",
+          "Saut\u00e9 vegetables and peanuts",
+          "Add water and oats, cook until fluffy"
+        ]
+      },
+      "lunch": {
+        "name": "Moong Dal & Brown Rice",
+        "ingredients": [
+          "50g brown rice",
+          "40g moong dal",
+          "100g spinach",
+          "50g onion",
+          "5g ghee"
+        ],
+        "preparation": [
+          "Cook brown rice",
+          "Cook dal with turmeric",
+          "Temper with onion and spinach in ghee",
+          "Serve hot"
+        ]
+      },
+      "snack": {
+        "name": "Roasted Chana",
+        "ingredients": [
+          "30g chana",
+          "5g lemon",
+          "2g chaat masala"
+        ],
+        "preparation": [
+          "Dry roast chana or buy pre-roasted unsalted",
+          "Squeeze lemon and sprinkle masala"
+        ]
+      },
+      "dinner": {
+        "name": "Roti with Mixed Sabzi",
+        "ingredients": [
+          "2 piece roti",
+          "100g cauliflower",
+          "50g potato",
+          "50g tomato",
+          "5g ghee"
+        ],
+        "preparation": [
+          "Prepare whole wheat roti",
+          "Saut\u00e9 vegetables with minimum ghee to make dry sabzi",
+          "Serve warm"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Poha & Khichdi Balance",
+    "fitnessGoal": "Weight Loss",
+    "budgetCategory": "low",
+    "dietaryType": "vegetarian",
+    "meals": {
+      "breakfast": {
+        "name": "Vegetable Poha",
+        "ingredients": [
+          "50g poha",
+          "30g onion",
+          "30g peas",
+          "10g peanuts",
+          "5g olive oil",
+          "10g lemon"
+        ],
+        "preparation": [
+          "Wash poha and drain",
+          "Temper seeds in oil, add peanuts, onion, and peas",
+          "Add poha, turmeric, salt",
+          "Finish with lemon juice"
+        ]
+      },
+      "lunch": {
+        "name": "Rajma Bowl",
+        "ingredients": [
+          "40g rajma",
+          "50g rice",
+          "50g tomato",
+          "50g onion",
+          "5g ghee"
+        ],
+        "preparation": [
+          "Soak rajma overnight",
+          "Pressure cook rajma",
+          "Cook onion-tomato gravy with minimal ghee",
+          "Serve with steamed rice"
+        ]
+      },
+      "snack": {
+        "name": "Cucumber Tomato Salad",
+        "ingredients": [
+          "100g cucumber",
+          "100g tomato",
+          "10g lemon",
+          "2g black salt"
+        ],
+        "preparation": [
+          "Chop vegetables",
+          "Toss with lemon juice and salt"
+        ]
+      },
+      "dinner": {
+        "name": "Masoor Dal Khichdi",
+        "ingredients": [
+          "30g rice",
+          "40g masoor dal",
+          "50g carrot",
+          "50g green beans",
+          "5g ghee"
+        ],
+        "preparation": [
+          "Mix rice and dal",
+          "Pressure cook with vegetables, turmeric, and ghee",
+          "Serve with light pickle"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Besan & Dal Protein Focus",
+    "fitnessGoal": "Weight Loss",
+    "budgetCategory": "low",
+    "dietaryType": "vegetarian",
+    "meals": {
+      "breakfast": {
+        "name": "Besan Chilla",
+        "ingredients": [
+          "50g besan",
+          "50g onion",
+          "50g tomato",
+          "5g ghee",
+          "10g coriander"
+        ],
+        "preparation": [
+          "Make batter with besan, water, and chopped veggies",
+          "Cook thin pancakes on tawa with ghee"
+        ]
+      },
+      "lunch": {
+        "name": "Toor Dal with Chapati",
+        "ingredients": [
+          "40g toor dal",
+          "2 piece chapati",
+          "100g lauki",
+          "50g tomato",
+          "5g ghee"
+        ],
+        "preparation": [
+          "Pressure cook dal with lauki",
+          "Temper with ghee, mustard seeds, and tomato",
+          "Serve with chapati"
+        ]
+      },
+      "snack": {
+        "name": "Moong Sprouts Salad",
+        "ingredients": [
+          "50g moong sprouts",
+          "30g onion",
+          "30g tomato",
+          "10g lemon"
+        ],
+        "preparation": [
+          "Steam sprouts lightly",
+          "Mix with chopped onion and tomato",
+          "Add lemon and spices"
+        ]
+      },
+      "dinner": {
+        "name": "Daliya Pulao",
+        "ingredients": [
+          "50g daliya",
+          "50g peas",
+          "50g carrot",
+          "50g onion",
+          "5g ghee"
+        ],
+        "preparation": [
+          "Roast daliya in ghee",
+          "Saut\u00e9 vegetables",
+          "Add water and pressure cook until soft"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Paneer & Dairy Deficit",
+    "fitnessGoal": "Weight Loss",
+    "budgetCategory": "medium",
+    "dietaryType": "vegetarian",
+    "meals": {
+      "breakfast": {
+        "name": "Idli with Sambar & Curd",
+        "ingredients": [
+          "3 piece idli",
+          "100ml sambar",
+          "50g curd",
+          "10g coconut chutney"
+        ],
+        "preparation": [
+          "Steam idlis",
+          "Serve with vegetable-loaded sambar and a side of fresh curd"
+        ]
+      },
+      "lunch": {
+        "name": "Palak Paneer with Roti",
+        "ingredients": [
+          "50g paneer",
+          "150g spinach",
+          "2 piece roti",
+          "50g onion",
+          "5g ghee"
+        ],
+        "preparation": [
+          "Blanch and puree spinach",
+          "Cook gravy with onion and spices",
+          "Add paneer cubes",
+          "Serve with roti"
+        ]
+      },
+      "snack": {
+        "name": "Apple & Almonds",
+        "ingredients": [
+          "100g apple",
+          "15g almonds"
+        ],
+        "preparation": [
+          "Slice apple",
+          "Consume with raw almonds"
+        ]
+      },
+      "dinner": {
+        "name": "Soya Chunk Pulao",
+        "ingredients": [
+          "40g soya chunks",
+          "40g brown rice",
+          "50g peas",
+          "50g carrot",
+          "50g curd"
+        ],
+        "preparation": [
+          "Boil soya chunks",
+          "Cook rice with chunks and veggies",
+          "Serve with curd"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Greek Yogurt & Lentils",
+    "fitnessGoal": "Weight Loss",
+    "budgetCategory": "medium",
+    "dietaryType": "vegetarian",
+    "meals": {
+      "breakfast": {
+        "name": "Overnight Oats with Milk",
+        "ingredients": [
+          "40g oats",
+          "150ml milk",
+          "10g chia seeds",
+          "50g banana"
+        ],
+        "preparation": [
+          "Soak oats and chia in milk overnight",
+          "Top with sliced banana before eating"
+        ]
+      },
+      "lunch": {
+        "name": "Chole with Quinoa",
+        "ingredients": [
+          "50g chole",
+          "40g quinoa",
+          "50g onion",
+          "50g tomato",
+          "50g cucumber"
+        ],
+        "preparation": [
+          "Cook chickpeas in tomato-onion base",
+          "Boil quinoa",
+          "Serve with cucumber slices"
+        ]
+      },
+      "snack": {
+        "name": "Greek Yogurt with Berries",
+        "ingredients": [
+          "100g yogurt",
+          "50g strawberry"
+        ],
+        "preparation": [
+          "Serve plain Greek yogurt topped with sliced strawberries"
+        ]
+      },
+      "dinner": {
+        "name": "Bhindi Masala & Multigrain Roti",
+        "ingredients": [
+          "150g bhindi",
+          "2 piece multigrain bread",
+          "50g onion",
+          "10g olive oil"
+        ],
+        "preparation": [
+          "Saut\u00e9 bhindi with onions in olive oil",
+          "Serve with toasted multigrain bread or roti"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Tofu & Mixed Seeds Lean",
+    "fitnessGoal": "Weight Loss",
+    "budgetCategory": "medium",
+    "dietaryType": "vegetarian",
+    "meals": {
+      "breakfast": {
+        "name": "Paneer Bhurji Stuffed Roti",
+        "ingredients": [
+          "60g paneer",
+          "1 piece roti",
+          "30g onion",
+          "30g tomato",
+          "5g ghee"
+        ],
+        "preparation": [
+          "Scramble paneer with veggies and spices",
+          "Stuff in roti or eat alongside"
+        ]
+      },
+      "lunch": {
+        "name": "Tofu & Broccoli Stir Fry",
+        "ingredients": [
+          "80g tofu",
+          "100g broccoli",
+          "50g bell pepper",
+          "40g brown rice",
+          "10g soy sauce"
+        ],
+        "preparation": [
+          "Cube and press tofu",
+          "Stir fry with broccoli and peppers",
+          "Add soy sauce",
+          "Serve over brown rice"
+        ]
+      },
+      "snack": {
+        "name": "Roasted Makhana & Walnuts",
+        "ingredients": [
+          "20g makhana",
+          "15g walnuts",
+          "5g ghee"
+        ],
+        "preparation": [
+          "Roast makhana in ghee",
+          "Mix with walnuts"
+        ]
+      },
+      "dinner": {
+        "name": "Chana Dal with Lauki",
+        "ingredients": [
+          "40g chana dal",
+          "100g lauki",
+          "2 piece roti",
+          "5g ghee"
+        ],
+        "preparation": [
+          "Pressure cook dal and bottle gourd",
+          "Temper with cumin",
+          "Serve with roti"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Premium Avocado & Quinoa Deficit",
+    "fitnessGoal": "Weight Loss",
+    "budgetCategory": "high",
+    "dietaryType": "vegetarian",
+    "meals": {
+      "breakfast": {
+        "name": "Avocado Multigrain Toast",
+        "ingredients": [
+          "2 piece multigrain bread",
+          "50g avocado",
+          "10g pumpkin seeds",
+          "5g olive oil"
+        ],
+        "preparation": [
+          "Toast bread",
+          "Mash avocado with salt and pepper",
+          "Spread on toast and top with seeds"
+        ]
+      },
+      "lunch": {
+        "name": "Quinoa & Edamame Bowl",
+        "ingredients": [
+          "40g quinoa",
+          "50g edamame",
+          "50g bell pepper",
+          "50g cucumber",
+          "10g tahini"
+        ],
+        "preparation": [
+          "Cook quinoa",
+          "Steam edamame",
+          "Chop veggies",
+          "Mix and dress with tahini"
+        ]
+      },
+      "snack": {
+        "name": "Whey Protein Shake",
+        "ingredients": [
+          "30g whey protein",
+          "200ml almond milk",
+          "10g chia seeds"
+        ],
+        "preparation": [
+          "Blend protein powder with almond milk and chia seeds"
+        ]
+      },
+      "dinner": {
+        "name": "Zucchini Noodles with Pesto Paneer",
+        "ingredients": [
+          "150g zucchini",
+          "80g paneer",
+          "20g pesto",
+          "10g olive oil"
+        ],
+        "preparation": [
+          "Spiralize zucchini",
+          "Saut\u00e9 paneer cubes",
+          "Toss zoodles and paneer with pesto"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Gourmet High-Protein Lean",
+    "fitnessGoal": "Weight Loss",
+    "budgetCategory": "high",
+    "dietaryType": "vegetarian",
+    "meals": {
+      "breakfast": {
+        "name": "Greek Yogurt Parfait",
+        "ingredients": [
+          "150g yogurt",
+          "30g granola",
+          "50g blueberry",
+          "10g honey"
+        ],
+        "preparation": [
+          "Layer Greek yogurt with granola and blueberries",
+          "Drizzle with honey"
+        ]
+      },
+      "lunch": {
+        "name": "Tempeh & Asparagus Stir Fry",
+        "ingredients": [
+          "80g tempeh",
+          "100g asparagus",
+          "40g brown rice",
+          "10g sesame oil",
+          "10g soy sauce"
+        ],
+        "preparation": [
+          "Slice tempeh and saut\u00e9",
+          "Add chopped asparagus",
+          "Flavor with soy sauce and sesame oil",
+          "Serve with brown rice"
+        ]
+      },
+      "snack": {
+        "name": "Almonds & Grapes",
+        "ingredients": [
+          "20g almonds",
+          "100g grapes"
+        ],
+        "preparation": [
+          "Serve fresh grapes with raw almonds"
+        ]
+      },
+      "dinner": {
+        "name": "Stuffed Bell Peppers with Quinoa",
+        "ingredients": [
+          "2 piece bell pepper",
+          "30g quinoa",
+          "40g black beans",
+          "20g cheese"
+        ],
+        "preparation": [
+          "Cook quinoa and mix with beans",
+          "Stuff into halved bell peppers",
+          "Top with cheese and bake"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Mediterranean Veg Keto-Lite",
+    "fitnessGoal": "Weight Loss",
+    "budgetCategory": "high",
+    "dietaryType": "vegetarian",
+    "meals": {
+      "breakfast": {
+        "name": "Protein Pancake",
+        "ingredients": [
+          "30g whey protein",
+          "1 piece banana",
+          "100ml almond milk",
+          "10g peanut butter"
+        ],
+        "preparation": [
+          "Blend whey, banana, and milk to batter",
+          "Cook on pan",
+          "Top with peanut butter"
+        ]
+      },
+      "lunch": {
+        "name": "Falafel Salad Bowl",
+        "ingredients": [
+          "3 piece falafel",
+          "100g kale",
+          "50g cherry tomatoes",
+          "20g hummus",
+          "10g olive oil"
+        ],
+        "preparation": [
+          "Bake falafel",
+          "Massage kale with olive oil",
+          "Add tomatoes",
+          "Top with falafel and hummus dressing"
+        ]
+      },
+      "snack": {
+        "name": "Cottage Cheese & Pineapple",
+        "ingredients": [
+          "100g paneer",
+          "100g pineapple"
+        ],
+        "preparation": [
+          "Mix fresh cottage cheese (paneer) with diced pineapple"
+        ]
+      },
+      "dinner": {
+        "name": "Cauliflower Rice with Tofu Curry",
+        "ingredients": [
+          "150g cauliflower",
+          "80g tofu",
+          "50ml coconut milk",
+          "10g Thai curry paste"
+        ],
+        "preparation": [
+          "Grate cauliflower and steam",
+          "Cook tofu in coconut milk and curry paste",
+          "Serve over cauliflower rice"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "High Protein Lentil Builder",
+    "fitnessGoal": "Lean Muscle Gain",
+    "budgetCategory": "low",
+    "dietaryType": "vegetarian",
+    "meals": {
+      "breakfast": {
+        "name": "Moong Dal Chilla & Curd",
+        "ingredients": [
+          "100g moong dal",
+          "100g curd",
+          "30g onion",
+          "10g green chili",
+          "5g ghee"
+        ],
+        "preparation": [
+          "Make batter with soaked moong dal",
+          "Cook chillas on tawa",
+          "Serve with fresh curd"
+        ]
+      },
+      "lunch": {
+        "name": "Soy Chunks & Rice",
+        "ingredients": [
+          "50g soy chunks",
+          "100g rice",
+          "50g tomato",
+          "50g onion",
+          "10g oil",
+          "10mg spices"
+        ],
+        "preparation": [
+          "Boil soy chunks until soft",
+          "Cook curry with onion and tomato",
+          "Add soy chunks and serve with rice"
+        ]
+      },
+      "snack": {
+        "name": "Roasted Peanuts & Chana",
+        "ingredients": [
+          "30g peanuts",
+          "50g chana",
+          "10g jaggery"
+        ],
+        "preparation": [
+          "Dry roast peanuts and chana",
+          "Consume as a trail mix with jaggery"
+        ]
+      },
+      "dinner": {
+        "name": "Matar Paneer with Roti",
+        "ingredients": [
+          "50g paneer",
+          "50g peas",
+          "3 piece roti",
+          "50g onion",
+          "10g oil"
+        ],
+        "preparation": [
+          "Make a gravy with onion and peas",
+          "Add paneer cubes",
+          "Serve with whole wheat roti"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Rajma Power Plan",
+    "fitnessGoal": "Lean Muscle Gain",
+    "budgetCategory": "low",
+    "dietaryType": "vegetarian",
+    "meals": {
+      "breakfast": {
+        "name": "Poha with Extra Peanuts",
+        "ingredients": [
+          "100g poha",
+          "30g peanuts",
+          "30g peas",
+          "10g oil",
+          "10g lemon"
+        ],
+        "preparation": [
+          "Wash poha",
+          "Temper oil with mustard seeds, add peanuts and peas",
+          "Mix poha and finish with lemon"
+        ]
+      },
+      "lunch": {
+        "name": "Rajma Masala & Rice",
+        "ingredients": [
+          "80g rajma",
+          "100g rice",
+          "50g tomato",
+          "30g onion",
+          "10g ghee"
+        ],
+        "preparation": [
+          "Pressure cook soaked rajma",
+          "Prepare masala",
+          "Serve piping hot with steamed rice"
+        ]
+      },
+      "snack": {
+        "name": "Milk & Banana",
+        "ingredients": [
+          "250ml milk",
+          "100g banana"
+        ],
+        "preparation": [
+          "Drink a warm glass of milk with a banana"
+        ]
+      },
+      "dinner": {
+        "name": "Dal Tadka & Sabzi",
+        "ingredients": [
+          "50g toor dal",
+          "100g cauliflower",
+          "3 piece roti",
+          "10g ghee"
+        ],
+        "preparation": [
+          "Cook dal",
+          "Prepare dry cauliflower sabzi",
+          "Serve with rotis"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Oats & Soya Sustenance",
+    "fitnessGoal": "Lean Muscle Gain",
+    "budgetCategory": "low",
+    "dietaryType": "vegetarian",
+    "meals": {
+      "breakfast": {
+        "name": "Oats Porridge with Milk",
+        "ingredients": [
+          "80g oats",
+          "200ml milk",
+          "15g jaggery"
+        ],
+        "preparation": [
+          "Cook oats in milk until thick",
+          "Sweeten with jaggery"
+        ]
+      },
+      "lunch": {
+        "name": "Soy Keema & Paratha",
+        "ingredients": [
+          "50g soy chunks",
+          "2 piece paratha",
+          "50g onion",
+          "50g tomato",
+          "10g oil"
+        ],
+        "preparation": [
+          "Minced boiled soy chunks",
+          "Cook like keema with spices",
+          "Serve with parathas"
+        ]
+      },
+      "snack": {
+        "name": "Sprouted Moong Chaat",
+        "ingredients": [
+          "100g moong sprouts",
+          "50g cucumber",
+          "20g onion",
+          "10g lemon"
+        ],
+        "preparation": [
+          "Lightly steam sprouts",
+          "Toss with chopped veggies and lemon juice"
+        ]
+      },
+      "dinner": {
+        "name": "Kadhi Pakora & Rice",
+        "ingredients": [
+          "40g besan",
+          "100g curd",
+          "80g rice",
+          "10g oil"
+        ],
+        "preparation": [
+          "Make pakoras with besan",
+          "Prepare kadhi with curd and besan",
+          "Mix pakoras and serve with rice"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Dairy & Quinoa Optimizer",
+    "fitnessGoal": "Lean Muscle Gain",
+    "budgetCategory": "medium",
+    "dietaryType": "vegetarian",
+    "meals": {
+      "breakfast": {
+        "name": "Paneer Stuffed Paratha",
+        "ingredients": [
+          "100g paneer",
+          "2 piece paratha",
+          "10g ghee",
+          "50g curd"
+        ],
+        "preparation": [
+          "Stuff whole wheat dough with grated paneer",
+          "Cook on tawa with ghee",
+          "Serve with a side of curd"
+        ]
+      },
+      "lunch": {
+        "name": "Quinoa & Mix Veg Dal",
+        "ingredients": [
+          "80g quinoa",
+          "50g mixed dal",
+          "50g carrot",
+          "5g ghee"
+        ],
+        "preparation": [
+          "Cook quinoa",
+          "Prepare a mixed dal with chopped carrots and tempering"
+        ]
+      },
+      "snack": {
+        "name": "Protein Shake with Almonds",
+        "ingredients": [
+          "30g whey protein",
+          "20g almonds",
+          "200ml milk"
+        ],
+        "preparation": [
+          "Blend protein with milk",
+          "Eat raw almonds on the side"
+        ]
+      },
+      "dinner": {
+        "name": "Tofu & Mushroom Stir Fry",
+        "ingredients": [
+          "100g tofu",
+          "100g mushroom",
+          "50g bell pepper",
+          "10g soy sauce",
+          "50g brown rice"
+        ],
+        "preparation": [
+          "Cube tofu and mushrooms",
+          "Stir fry with bell peppers and soy sauce",
+          "Serve with brown rice"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Greek Yogurt & Chickpea Gain",
+    "fitnessGoal": "Lean Muscle Gain",
+    "budgetCategory": "medium",
+    "dietaryType": "vegetarian",
+    "meals": {
+      "breakfast": {
+        "name": "Greek Yogurt Bowl",
+        "ingredients": [
+          "200g greek yogurt",
+          "40g muesli",
+          "20g chia seeds",
+          "50g apple"
+        ],
+        "preparation": [
+          "Top greek yogurt with muesli, chia, and diced apple"
+        ]
+      },
+      "lunch": {
+        "name": "Hummus & Falafel Wrap",
+        "ingredients": [
+          "50g hummus",
+          "60g falafel",
+          "2 piece whole wheat wrap",
+          "50g lettuce",
+          "30g tomato"
+        ],
+        "preparation": [
+          "Spread hummus on wrap",
+          "Add baked falafels and fresh veggies",
+          "Roll and toast lightly"
+        ]
+      },
+      "snack": {
+        "name": "Boiled Chana Salad",
+        "ingredients": [
+          "100g chana",
+          "30g onion",
+          "10g lemon",
+          "10g olive oil"
+        ],
+        "preparation": [
+          "Toss boiled chickpeas with chopped onion, olive oil, and lemon juice"
+        ]
+      },
+      "dinner": {
+        "name": "Vegetable Pulao with Raita",
+        "ingredients": [
+          "80g rice",
+          "50g green beans",
+          "50g carrots",
+          "30g paneer",
+          "100g curd"
+        ],
+        "preparation": [
+          "Cook rice with mixed veggies and small paneer cubes",
+          "Serve with cucumber raita"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Balanced Soy & Whey",
+    "fitnessGoal": "Lean Muscle Gain",
+    "budgetCategory": "medium",
+    "dietaryType": "vegetarian",
+    "meals": {
+      "breakfast": {
+        "name": "Oats Smoothie",
+        "ingredients": [
+          "60g oats",
+          "200ml milk",
+          "30g whey protein",
+          "20g peanut butter",
+          "100g banana"
+        ],
+        "preparation": [
+          "Blend all ingredients together into a thick shake"
+        ]
+      },
+      "lunch": {
+        "name": "Yellow Dal & Chapati",
+        "ingredients": [
+          "60g moong dal",
+          "3 piece chapati",
+          "80g spinach",
+          "10g ghee"
+        ],
+        "preparation": [
+          "Cook dal with spinach",
+          "Serve with fresh chapatis and ghee"
+        ]
+      },
+      "snack": {
+        "name": "Cottage Cheese Blocks",
+        "ingredients": [
+          "100g paneer",
+          "5g olive oil",
+          "2g black pepper"
+        ],
+        "preparation": [
+          "Lightly pan-fry paneer blocks with olive oil and pepper"
+        ]
+      },
+      "dinner": {
+        "name": "Soya Bhurji Wraps",
+        "ingredients": [
+          "60g soy chunks",
+          "2 piece chapati",
+          "50g onion",
+          "5g oil"
+        ],
+        "preparation": [
+          "Mince boiled soya",
+          "Scramble with onions and spices",
+          "Wrap in chapati"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Premium Plant & Dairy Muscle",
+    "fitnessGoal": "Lean Muscle Gain",
+    "budgetCategory": "high",
+    "dietaryType": "vegetarian",
+    "meals": {
+      "breakfast": {
+        "name": "Avocado & Ricotta Toast",
+        "ingredients": [
+          "2 piece multigrain bread",
+          "50g avocado",
+          "50g ricotta cheese",
+          "10g flaxseeds"
+        ],
+        "preparation": [
+          "Toast bread",
+          "Spread mashed avocado and ricotta",
+          "Sprinkle flaxseeds"
+        ]
+      },
+      "lunch": {
+        "name": "Edamame & Quinoa Salad",
+        "ingredients": [
+          "80g quinoa",
+          "80g edamame",
+          "50g cherry tomatoes",
+          "15g olive oil",
+          "10g tahini"
+        ],
+        "preparation": [
+          "Mix cooked quinoa and edamame",
+          "Toss with tomatoes, olive oil, and tahini"
+        ]
+      },
+      "snack": {
+        "name": "Whey Isolate & Mixed Nuts",
+        "ingredients": [
+          "30g whey protein",
+          "30g mixed nuts",
+          "200ml almond milk"
+        ],
+        "preparation": [
+          "Blend protein with almond milk",
+          "Serve with a handful of premium nuts"
+        ]
+      },
+      "dinner": {
+        "name": "Tempeh Steak with Asparagus",
+        "ingredients": [
+          "100g tempeh",
+          "80g asparagus",
+          "30g sweet potato",
+          "10g olive oil"
+        ],
+        "preparation": [
+          "Marinate and bake tempeh",
+          "Roast asparagus and sweet potatoes on the side"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Gourmet Mediterranean Builder",
+    "fitnessGoal": "Lean Muscle Gain",
+    "budgetCategory": "high",
+    "dietaryType": "vegetarian",
+    "meals": {
+      "breakfast": {
+        "name": "Protein Pancakes",
+        "ingredients": [
+          "50g oats",
+          "30g whey protein",
+          "100ml milk",
+          "50g blueberries",
+          "10g maple syrup"
+        ],
+        "preparation": [
+          "Blend oats and whey into batter",
+          "Cook pancakes",
+          "Top with blueberries and syrup"
+        ]
+      },
+      "lunch": {
+        "name": "Grilled Halloumi Salad",
+        "ingredients": [
+          "80g halloumi cheese",
+          "100g kale",
+          "50g beetroot",
+          "15g olive oil",
+          "20g quinoa"
+        ],
+        "preparation": [
+          "Grill halloumi",
+          "Massage kale with oil",
+          "Mix in beetroot, quinoa, and cheese"
+        ]
+      },
+      "snack": {
+        "name": "Greek Yogurt with Pistachios",
+        "ingredients": [
+          "200g greek yogurt",
+          "20g pistachios",
+          "10g honey"
+        ],
+        "preparation": [
+          "Serve yogurt topped with crushed pistachios and honey"
+        ]
+      },
+      "dinner": {
+        "name": "Zucchini Noodles with Pesto Tofu",
+        "ingredients": [
+          "150g zucchini",
+          "100g tofu",
+          "30g pesto",
+          "10g olive oil"
+        ],
+        "preparation": [
+          "Spiralize zucchini",
+          "Saut\u00e9 tofu cubes",
+          "Toss everything in basil pesto"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "High-Performance Vegan+Dairy",
+    "fitnessGoal": "Lean Muscle Gain",
+    "budgetCategory": "high",
+    "dietaryType": "vegetarian",
+    "meals": {
+      "breakfast": {
+        "name": "Chia Pudding Deluxe",
+        "ingredients": [
+          "30g chia seeds",
+          "200ml almond milk",
+          "30g whey protein",
+          "20g walnuts"
+        ],
+        "preparation": [
+          "Mix chia, milk, and whey",
+          "Leave overnight",
+          "Top with walnuts before eating"
+        ]
+      },
+      "lunch": {
+        "name": "Stuffed Bell Peppers",
+        "ingredients": [
+          "2 piece bell pepper",
+          "60g brown rice",
+          "50g black beans",
+          "30g feta cheese"
+        ],
+        "preparation": [
+          "Mix rice, beans, and cheese",
+          "Stuff peppers and bake until tender"
+        ]
+      },
+      "snack": {
+        "name": "Cottage Cheese & Strawberries",
+        "ingredients": [
+          "150g paneer",
+          "80g strawberry"
+        ],
+        "preparation": [
+          "Serve fresh cottage cheese with sliced strawberries"
+        ]
+      },
+      "dinner": {
+        "name": "Cauliflower Steak & Lentils",
+        "ingredients": [
+          "150g cauliflower",
+          "80g lentil",
+          "15g olive oil",
+          "10g garlic"
+        ],
+        "preparation": [
+          "Roast thick cauliflower slices with garlic and oil",
+          "Serve over a bed of seasoned lentils"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Heavy Lentil & Rice Mass Plan",
+    "fitnessGoal": "Bulking",
+    "budgetCategory": "low",
+    "dietaryType": "vegetarian",
+    "meals": {
+      "breakfast": {
+        "name": "Double Moong Chilla",
+        "ingredients": [
+          "150g moong dal",
+          "50g onion",
+          "15g ghee",
+          "100g curd"
+        ],
+        "preparation": [
+          "Blend soaked dal with spices",
+          "Fry thick chillas with generous ghee",
+          "Serve with thick curd"
+        ]
+      },
+      "lunch": {
+        "name": "Mega Rajma Chawal",
+        "ingredients": [
+          "100g rajma",
+          "150g rice",
+          "50g tomato",
+          "50g onion",
+          "20g ghee"
+        ],
+        "preparation": [
+          "Cook a rich rajma curry",
+          "Serve over a large portion of steamed rice with extra ghee"
+        ]
+      },
+      "snack": {
+        "name": "Peanut Butter Banana Mash",
+        "ingredients": [
+          "50g peanut butter",
+          "200g banana",
+          "200ml milk"
+        ],
+        "preparation": [
+          "Mash bananas with peanut butter",
+          "Drink with a large glass of milk"
+        ]
+      },
+      "dinner": {
+        "name": "Aloo Matar & Extra Roti",
+        "ingredients": [
+          "100g potato",
+          "80g peas",
+          "4 piece roti",
+          "15g oil"
+        ],
+        "preparation": [
+          "Cook potato and peas in a thick gravy",
+          "Serve with 4 whole wheat rotis"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Soy & Potato Surplus",
+    "fitnessGoal": "Bulking",
+    "budgetCategory": "low",
+    "dietaryType": "vegetarian",
+    "meals": {
+      "breakfast": {
+        "name": "Heavy Poha with Potatoes",
+        "ingredients": [
+          "120g poha",
+          "80g potato",
+          "40g peanuts",
+          "15g oil"
+        ],
+        "preparation": [
+          "Fry potato cubes and peanuts",
+          "Toss with soaked poha and spices"
+        ]
+      },
+      "lunch": {
+        "name": "Soyabean Curry & Rice",
+        "ingredients": [
+          "80g soy chunks",
+          "150g rice",
+          "50g onion",
+          "20g ghee"
+        ],
+        "preparation": [
+          "Prepare a spiced soy chunk curry",
+          "Serve with a large helping of rice and ghee"
+        ]
+      },
+      "snack": {
+        "name": "Roasted Chana & Jaggery Load",
+        "ingredients": [
+          "80g chana",
+          "40g jaggery"
+        ],
+        "preparation": [
+          "Mix a large bowl of roasted gram and jaggery chunks"
+        ]
+      },
+      "dinner": {
+        "name": "Dal Makhani Style & Paratha",
+        "ingredients": [
+          "80g mixed dal",
+          "3 piece paratha",
+          "20g ghee",
+          "50ml milk"
+        ],
+        "preparation": [
+          "Slow cook dal with a splash of milk for creaminess",
+          "Serve with thick parathas"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Besan & Wheat Mass Builder",
+    "fitnessGoal": "Bulking",
+    "budgetCategory": "low",
+    "dietaryType": "vegetarian",
+    "meals": {
+      "breakfast": {
+        "name": "Heavy Daliya Porridge",
+        "ingredients": [
+          "100g daliya",
+          "300ml milk",
+          "30g sugar",
+          "20g peanuts"
+        ],
+        "preparation": [
+          "Cook broken wheat in milk until thick",
+          "Stir in sugar and peanuts"
+        ]
+      },
+      "lunch": {
+        "name": "Kadhi Pakora Feast",
+        "ingredients": [
+          "60g besan",
+          "150g curd",
+          "150g rice",
+          "20g oil"
+        ],
+        "preparation": [
+          "Deep fry besan pakoras",
+          "Simmer in yogurt-besan gravy",
+          "Serve with abundant rice"
+        ]
+      },
+      "snack": {
+        "name": "Potato Sandwiches",
+        "ingredients": [
+          "150g potato",
+          "4 piece bread",
+          "15g butter"
+        ],
+        "preparation": [
+          "Mash boiled potatoes with spices",
+          "Grill sandwiches with butter"
+        ]
+      },
+      "dinner": {
+        "name": "Chole with Kulcha",
+        "ingredients": [
+          "100g chole",
+          "4 piece roti",
+          "50g onion",
+          "15g oil"
+        ],
+        "preparation": [
+          "Cook chickpeas in a thick gravy",
+          "Serve with 4 rotis"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Paneer & Nut Bulking Plan",
+    "fitnessGoal": "Bulking",
+    "budgetCategory": "medium",
+    "dietaryType": "vegetarian",
+    "meals": {
+      "breakfast": {
+        "name": "Paneer Paratha with Butter",
+        "ingredients": [
+          "150g paneer",
+          "3 piece paratha",
+          "20g butter",
+          "100g curd"
+        ],
+        "preparation": [
+          "Stuff parathas densely with paneer",
+          "Cook and top with butter",
+          "Serve with curd"
+        ]
+      },
+      "lunch": {
+        "name": "Dal Makhani & Jeera Rice",
+        "ingredients": [
+          "80g mixed dal",
+          "150g rice",
+          "20g butter",
+          "30ml cream"
+        ],
+        "preparation": [
+          "Cook authentic dal makhani with butter and cream",
+          "Serve with cumin rice"
+        ]
+      },
+      "snack": {
+        "name": "Mass Gainer Shake",
+        "ingredients": [
+          "50g oats",
+          "300ml milk",
+          "30g peanut butter",
+          "2 piece banana",
+          "15g honey"
+        ],
+        "preparation": [
+          "Blend all ingredients into a high-calorie shake"
+        ]
+      },
+      "dinner": {
+        "name": "Soya Keema & Roti",
+        "ingredients": [
+          "80g soy chunks",
+          "4 piece roti",
+          "50g peas",
+          "15g oil"
+        ],
+        "preparation": [
+          "Make spicy soya keema with peas",
+          "Serve with multiple rotis"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Cheese & Legume Load",
+    "fitnessGoal": "Bulking",
+    "budgetCategory": "medium",
+    "dietaryType": "vegetarian",
+    "meals": {
+      "breakfast": {
+        "name": "Cheese & Veggie Sandwich",
+        "ingredients": [
+          "4 piece bread",
+          "50g cheese",
+          "50g tomato",
+          "20g butter"
+        ],
+        "preparation": [
+          "Layer cheese and veggies in bread",
+          "Grill with generous butter"
+        ]
+      },
+      "lunch": {
+        "name": "Large Chole Bhature/Rice",
+        "ingredients": [
+          "120g chole",
+          "150g rice",
+          "20g ghee",
+          "50g onion"
+        ],
+        "preparation": [
+          "Prepare rich chole",
+          "Serve over a large mount of rice topped with ghee"
+        ]
+      },
+      "snack": {
+        "name": "Greek Yogurt & Nuts Mix",
+        "ingredients": [
+          "200g yogurt",
+          "40g mixed nuts",
+          "20g honey"
+        ],
+        "preparation": [
+          "Mix thick yogurt with assorted nuts and honey"
+        ]
+      },
+      "dinner": {
+        "name": "Shahi Paneer & Naan",
+        "ingredients": [
+          "120g paneer",
+          "2 piece naan",
+          "30ml cream",
+          "20g cashew"
+        ],
+        "preparation": [
+          "Cook paneer in a rich cashew-cream gravy",
+          "Serve with garlic naan or roti"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Sweet Potato & Whey Builder",
+    "fitnessGoal": "Bulking",
+    "budgetCategory": "medium",
+    "dietaryType": "vegetarian",
+    "meals": {
+      "breakfast": {
+        "name": "Peanut Butter Oats Bowl",
+        "ingredients": [
+          "100g oats",
+          "300ml milk",
+          "40g peanut butter",
+          "50g banana"
+        ],
+        "preparation": [
+          "Cook oats",
+          "Stir in massive scoop of peanut butter and top with banana"
+        ]
+      },
+      "lunch": {
+        "name": "Sweet Potato & Lentil Curry",
+        "ingredients": [
+          "200g sweet potato",
+          "80g lentil",
+          "150g rice",
+          "15g ghee"
+        ],
+        "preparation": [
+          "Roast sweet potato cubes and mix into lentil curry",
+          "Serve with rice"
+        ]
+      },
+      "snack": {
+        "name": "Whey Protein & Almonds",
+        "ingredients": [
+          "30g whey protein",
+          "300ml milk",
+          "30g almonds",
+          "1 piece banana"
+        ],
+        "preparation": [
+          "Blend whey and milk",
+          "Eat banana and almonds alongside"
+        ]
+      },
+      "dinner": {
+        "name": "Mixed Veg Pulao & Raita",
+        "ingredients": [
+          "150g rice",
+          "100g mixed veggies",
+          "50g paneer",
+          "20g ghee",
+          "150g curd"
+        ],
+        "preparation": [
+          "Cook a rich pulao with veggies and fried paneer cubes",
+          "Serve with thick raita"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Gourmet Mass Extravaganza",
+    "fitnessGoal": "Bulking",
+    "budgetCategory": "high",
+    "dietaryType": "vegetarian",
+    "meals": {
+      "breakfast": {
+        "name": "Avocado & Ricotta Thick Toast",
+        "ingredients": [
+          "4 piece multigrain bread",
+          "100g avocado",
+          "80g ricotta cheese",
+          "20g olive oil",
+          "15g pumpkin seeds"
+        ],
+        "preparation": [
+          "Toast bread, stack high with mashed avocado and ricotta",
+          "Drizzle with olive oil and seeds"
+        ]
+      },
+      "lunch": {
+        "name": "Quinoa, Edamame & Haloumi Bowl",
+        "ingredients": [
+          "120g quinoa",
+          "100g edamame",
+          "100g halloumi cheese",
+          "20g tahini",
+          "20g olive oil"
+        ],
+        "preparation": [
+          "Pan fry halloumi in olive oil",
+          "Mix with massive serving of quinoa and edamame",
+          "Dress heavily in tahini"
+        ]
+      },
+      "snack": {
+        "name": "Premium Gainer Shake",
+        "ingredients": [
+          "50g whey protein",
+          "300ml whole milk",
+          "50g peanut butter",
+          "100g banana",
+          "20g chia seeds"
+        ],
+        "preparation": [
+          "Blend into a dense 800+ calorie shake"
+        ]
+      },
+      "dinner": {
+        "name": "Creamy Mushroom & Truffle Pasta",
+        "ingredients": [
+          "150g pasta",
+          "150g mushroom",
+          "50ml heavy cream",
+          "30g parmesan",
+          "15g olive oil"
+        ],
+        "preparation": [
+          "Cook pasta",
+          "Saut\u00e9 mushrooms in olive oil, add cream and cheese for thick sauce"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Plant & Dairy Power Surplus",
+    "fitnessGoal": "Bulking",
+    "budgetCategory": "high",
+    "dietaryType": "vegetarian",
+    "meals": {
+      "breakfast": {
+        "name": "Pecan & Maple Oatmeal",
+        "ingredients": [
+          "120g oats",
+          "300ml whole milk",
+          "40g pecan",
+          "30g maple syrup",
+          "1 piece apple"
+        ],
+        "preparation": [
+          "Cook hearty oats",
+          "Mix in crushed pecans, maple syrup, and chopped apple"
+        ]
+      },
+      "lunch": {
+        "name": "Beyond Meat / Mock Meat Burger",
+        "ingredients": [
+          "1 piece mock meat patty",
+          "2 piece burger bun",
+          "20g cheese",
+          "20g mayo",
+          "100g sweet potato fries"
+        ],
+        "preparation": [
+          "Grill patty and assemble burger with cheese and mayo",
+          "Serve with air-fried sweet potato fries"
+        ]
+      },
+      "snack": {
+        "name": "Greek Yogurt Parfait Deluxe",
+        "ingredients": [
+          "250g greek yogurt",
+          "60g granola",
+          "40g mixed berries",
+          "20g honey"
+        ],
+        "preparation": [
+          "Layer dense greek yogurt with extra granola and honey"
+        ]
+      },
+      "dinner": {
+        "name": "Rich Malai Kofta & Naan",
+        "ingredients": [
+          "3 piece kofta",
+          "100g paneer",
+          "50ml cream",
+          "2 piece naan",
+          "15g butter"
+        ],
+        "preparation": [
+          "Prepare kofta in rich creamy gravy",
+          "Serve with butter naan"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Nut-Dense Bulk Plan",
+    "fitnessGoal": "Bulking",
+    "budgetCategory": "high",
+    "dietaryType": "vegetarian",
+    "meals": {
+      "breakfast": {
+        "name": "Almond Butter Pancakes",
+        "ingredients": [
+          "100g pancake mix",
+          "200ml milk",
+          "40g almond butter",
+          "50g berries",
+          "20g honey"
+        ],
+        "preparation": [
+          "Cook large stack of pancakes",
+          "Smother in almond butter and honey"
+        ]
+      },
+      "lunch": {
+        "name": "Tofu & Cashew Stir Fry",
+        "ingredients": [
+          "150g tofu",
+          "50g cashew",
+          "150g jasmine rice",
+          "20g sesame oil",
+          "15g soy sauce"
+        ],
+        "preparation": [
+          "Fry tofu and cashews in sesame oil",
+          "Toss with a sticky soy glaze",
+          "Serve over jasmine rice"
+        ]
+      },
+      "snack": {
+        "name": "Trail Mix & Protein Profile",
+        "ingredients": [
+          "60g mixed nuts",
+          "40g dates",
+          "30g whey protein",
+          "250ml milk"
+        ],
+        "preparation": [
+          "Eat high-calorie nuts and dates",
+          "Wash down with a whey protein shake"
+        ]
+      },
+      "dinner": {
+        "name": "Four Cheese Pizza (Personal)",
+        "ingredients": [
+          "1 piece pizza base",
+          "100g mixed cheese",
+          "50g tomato sauce",
+          "20g olive oil"
+        ],
+        "preparation": [
+          "Bake a personal thick-crust pizza loaded with premium cheeses and olive oil"
+        ]
+      }
+    }
+  }
+]

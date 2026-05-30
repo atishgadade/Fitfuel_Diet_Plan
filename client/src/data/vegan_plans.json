@@ -1,0 +1,1594 @@
+[
+  {
+    "planName": "Simple Vegan Lentil Deficit",
+    "fitnessGoal": "Weight Loss",
+    "budgetCategory": "low",
+    "dietaryType": "vegan",
+    "meals": {
+      "breakfast": {
+        "name": "Oats & Water Porridge",
+        "ingredients": [
+          "40g oats",
+          "1 piece banana",
+          "5g flaxseeds"
+        ],
+        "preparation": [
+          "Cook oats in water",
+          "Top with sliced banana and flaxseeds"
+        ]
+      },
+      "lunch": {
+        "name": "Moong Dal & Cucumber Salad",
+        "ingredients": [
+          "50g moong dal",
+          "2 piece roti",
+          "100g cucumber",
+          "20g onion"
+        ],
+        "preparation": [
+          "Cook plain dal with turmeric and basic temper",
+          "Eat with dry whole wheat roti and large salad"
+        ]
+      },
+      "snack": {
+        "name": "Roasted Chana",
+        "ingredients": [
+          "40g chana",
+          "5g lemon"
+        ],
+        "preparation": [
+          "Dry roast gram, splash with lemon"
+        ]
+      },
+      "dinner": {
+        "name": "Cabbage Sabzi & Roti",
+        "ingredients": [
+          "150g cabbage",
+          "2 piece roti",
+          "10g oil",
+          "30g peas"
+        ],
+        "preparation": [
+          "Saut\u00e9 cabbage and peas in minimal oil",
+          "Serve with dry roti"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Poha & Rajma Balance",
+    "fitnessGoal": "Weight Loss",
+    "budgetCategory": "low",
+    "dietaryType": "vegan",
+    "meals": {
+      "breakfast": {
+        "name": "Vegetable Poha",
+        "ingredients": [
+          "50g poha",
+          "10g peanuts",
+          "50g onion",
+          "10g oil",
+          "5g lemon"
+        ],
+        "preparation": [
+          "Cook poha with turmeric, onion, and peanuts",
+          "Top with lemon juice"
+        ]
+      },
+      "lunch": {
+        "name": "Rajma & Brown Rice",
+        "ingredients": [
+          "40g rajma",
+          "50g brown rice",
+          "50g tomato",
+          "10g oil"
+        ],
+        "preparation": [
+          "Pressure cook kidney beans",
+          "Make gravy with tomato and basic spices",
+          "Serve with brown rice"
+        ]
+      },
+      "snack": {
+        "name": "Green Gram Sprouts",
+        "ingredients": [
+          "50g moong sprouts",
+          "50g tomato",
+          "5g lemon"
+        ],
+        "preparation": [
+          "Mix fresh sprouts with tomato and lemon"
+        ]
+      },
+      "dinner": {
+        "name": "Bottle Gourd Dal",
+        "ingredients": [
+          "40g masoor dal",
+          "100g lauki",
+          "2 piece roti",
+          "10g oil"
+        ],
+        "preparation": [
+          "Cook red lentils with bottle gourd",
+          "Serve with roti"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Soya & Daliya Light",
+    "fitnessGoal": "Weight Loss",
+    "budgetCategory": "low",
+    "dietaryType": "vegan",
+    "meals": {
+      "breakfast": {
+        "name": "Savoury Daliya",
+        "ingredients": [
+          "50g daliya",
+          "50g carrots",
+          "30g peas",
+          "10g oil"
+        ],
+        "preparation": [
+          "Roast broken wheat",
+          "Pressure cook with vegetables and water"
+        ]
+      },
+      "lunch": {
+        "name": "Soya Chunk Curry & Rice",
+        "ingredients": [
+          "40g soy chunks",
+          "50g rice",
+          "50g onion",
+          "10g oil"
+        ],
+        "preparation": [
+          "Boil soya chunks",
+          "Simmer in a light onion gravy",
+          "Serve with rice"
+        ]
+      },
+      "snack": {
+        "name": "Cucumber Sticks & Peanuts",
+        "ingredients": [
+          "150g cucumber",
+          "15g peanuts"
+        ],
+        "preparation": [
+          "Slice cucumber",
+          "Eat with a small handful of peanuts"
+        ]
+      },
+      "dinner": {
+        "name": "Spinach Dal",
+        "ingredients": [
+          "40g toor dal",
+          "150g spinach",
+          "2 piece roti",
+          "10g oil"
+        ],
+        "preparation": [
+          "Cook pigeon peas with fresh spinach",
+          "Serve with whole wheat roti"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Tofu & Chickpea Deficit",
+    "fitnessGoal": "Weight Loss",
+    "budgetCategory": "medium",
+    "dietaryType": "vegan",
+    "meals": {
+      "breakfast": {
+        "name": "Tofu Scramble",
+        "ingredients": [
+          "80g tofu",
+          "50g onion",
+          "30g tomato",
+          "1 piece toast",
+          "10g olive oil"
+        ],
+        "preparation": [
+          "Crumble tofu",
+          "Saut\u00e9 with turmeric, onion, and tomato",
+          "Serve with plain toast"
+        ]
+      },
+      "lunch": {
+        "name": "Chickpea Salad Bowl",
+        "ingredients": [
+          "80g chana",
+          "100g cucumber",
+          "50g bell pepper",
+          "10g tahini",
+          "10g lemon"
+        ],
+        "preparation": [
+          "Mix boiled chickpeas with chopped veggies",
+          "Dress with a light tahini-lemon mix"
+        ]
+      },
+      "snack": {
+        "name": "Apple & Walnuts",
+        "ingredients": [
+          "1 piece apple",
+          "15g walnuts"
+        ],
+        "preparation": [
+          "Eat fresh apple with raw walnuts"
+        ]
+      },
+      "dinner": {
+        "name": "Quinoa & Mix Veg Dal",
+        "ingredients": [
+          "40g quinoa",
+          "40g mixed dal",
+          "50g carrot",
+          "10g olive oil"
+        ],
+        "preparation": [
+          "Cook quinoa",
+          "Serve with dal cooked with vegetables"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Soy Milk & Lentil Lean",
+    "fitnessGoal": "Weight Loss",
+    "budgetCategory": "medium",
+    "dietaryType": "vegan",
+    "meals": {
+      "breakfast": {
+        "name": "Chia Oats in Soy Milk",
+        "ingredients": [
+          "40g oats",
+          "150ml soy milk",
+          "10g chia seeds",
+          "50g berries"
+        ],
+        "preparation": [
+          "Soak oats and chia in soy milk",
+          "Top with fresh berries"
+        ]
+      },
+      "lunch": {
+        "name": "Lentil Soup & Side Salad",
+        "ingredients": [
+          "60g masoor dal",
+          "150g mixed veggies",
+          "100g lettuce",
+          "10g olive oil"
+        ],
+        "preparation": [
+          "Blend cooked lentils into a thick soup",
+          "Serve with a large green salad"
+        ]
+      },
+      "snack": {
+        "name": "Roasted Makhana",
+        "ingredients": [
+          "30g makhana",
+          "10g olive oil",
+          "2g black pepper"
+        ],
+        "preparation": [
+          "Roast fox nuts in a dash of olive oil with pepper"
+        ]
+      },
+      "dinner": {
+        "name": "Tofu & Broccoli Stir Fry",
+        "ingredients": [
+          "80g tofu",
+          "150g broccoli",
+          "10g soy sauce",
+          "10g sesame oil"
+        ],
+        "preparation": [
+          "Stir fry tofu and broccoli in sesame oil and soy sauce"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Plant-Based Protein Core",
+    "fitnessGoal": "Weight Loss",
+    "budgetCategory": "medium",
+    "dietaryType": "vegan",
+    "meals": {
+      "breakfast": {
+        "name": "Vegan Protein Smoothie",
+        "ingredients": [
+          "20g vegan protein",
+          "200ml almond milk",
+          "50g spinach",
+          "50g banana"
+        ],
+        "preparation": [
+          "Blend protein powder, almond milk, spinach, and banana"
+        ]
+      },
+      "lunch": {
+        "name": "Soya Bean Salad",
+        "ingredients": [
+          "60g soybean",
+          "50g onion",
+          "50g tomato",
+          "10g olive oil",
+          "10g lemon"
+        ],
+        "preparation": [
+          "Boil soybeans until soft",
+          "Toss with veggies, olive oil, and lemon"
+        ]
+      },
+      "snack": {
+        "name": "Hummus & Carrots",
+        "ingredients": [
+          "40g hummus",
+          "100g carrot"
+        ],
+        "preparation": [
+          "Dip carrot sticks in portioned hummus"
+        ]
+      },
+      "dinner": {
+        "name": "Mushroom & Zucchini Noodles",
+        "ingredients": [
+          "100g mushroom",
+          "150g zucchini",
+          "50g tomato sauce",
+          "10g olive oil"
+        ],
+        "preparation": [
+          "Spiralize zucchini",
+          "Saut\u00e9 mushrooms",
+          "Toss everything in tomato sauce"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Premium Avocado & Tempeh Deficit",
+    "fitnessGoal": "Weight Loss",
+    "budgetCategory": "high",
+    "dietaryType": "vegan",
+    "meals": {
+      "breakfast": {
+        "name": "Avocado & Hemp Seed Toast",
+        "ingredients": [
+          "2 piece multigrain bread",
+          "50g avocado",
+          "10g hemp seeds",
+          "5g olive oil"
+        ],
+        "preparation": [
+          "Mash avocado on toast",
+          "Sprinkle with hemp seeds and olive oil"
+        ]
+      },
+      "lunch": {
+        "name": "Tempeh Salad Bowl",
+        "ingredients": [
+          "80g tempeh",
+          "100g kale",
+          "50g cherry tomatoes",
+          "15g olive oil",
+          "10g balsamic vinegar"
+        ],
+        "preparation": [
+          "Bake tempeh slices",
+          "Massage kale with olive oil",
+          "Mix and dress"
+        ]
+      },
+      "snack": {
+        "name": "Vegan Protein Shake",
+        "ingredients": [
+          "30g vegan protein",
+          "200ml almond milk",
+          "20g almonds"
+        ],
+        "preparation": [
+          "Blend proteinshake",
+          "Eat a few almonds on the side"
+        ]
+      },
+      "dinner": {
+        "name": "Edamame & Shirataki Noodles",
+        "ingredients": [
+          "80g edamame",
+          "150g shirataki noodles",
+          "50g bell pepper",
+          "10g soy sauce",
+          "10g sesame oil"
+        ],
+        "preparation": [
+          "Rinse shirataki noodles",
+          "Stir fry with edamame and peppers in sesame oil"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Superfood Vitality Plan",
+    "fitnessGoal": "Weight Loss",
+    "budgetCategory": "high",
+    "dietaryType": "vegan",
+    "meals": {
+      "breakfast": {
+        "name": "Acai & Chia Bowl",
+        "ingredients": [
+          "50g acai puree",
+          "20g chia seeds",
+          "150ml almond milk",
+          "30g berries",
+          "10g coconut flakes"
+        ],
+        "preparation": [
+          "Blend acai and almond milk",
+          "Stir in chia and top with berries and coconut"
+        ]
+      },
+      "lunch": {
+        "name": "Quinoa & Roasted Veg Salad",
+        "ingredients": [
+          "40g quinoa",
+          "100g asparagus",
+          "50g zucchini",
+          "15g olive oil",
+          "10g pine nuts"
+        ],
+        "preparation": [
+          "Roast asparagus and zucchini",
+          "Toss with cooked quinoa, pine nuts, and olive oil"
+        ]
+      },
+      "snack": {
+        "name": "Pistachios & Green Tea",
+        "ingredients": [
+          "20g pistachios",
+          "1 piece green tea bag"
+        ],
+        "preparation": [
+          "Eat shelled pistachios with a cup of hot green tea"
+        ]
+      },
+      "dinner": {
+        "name": "Tofu Steak with Cauliflower Mash",
+        "ingredients": [
+          "100g tofu",
+          "150g cauliflower",
+          "10ml almond milk",
+          "10g olive oil"
+        ],
+        "preparation": [
+          "Pan-sear thick tofu slice",
+          "Steam and mash cauliflower with almond milk and a touch of oil"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Gourmet Vegan Keto-Lite",
+    "fitnessGoal": "Weight Loss",
+    "budgetCategory": "high",
+    "dietaryType": "vegan",
+    "meals": {
+      "breakfast": {
+        "name": "Vegan Keto Porridge",
+        "ingredients": [
+          "20g hemp seeds",
+          "10g flaxseeds",
+          "10g chia seeds",
+          "150ml coconut milk",
+          "10g almond butter"
+        ],
+        "preparation": [
+          "Warm coconut milk and stir in seeds until thick",
+          "Swirl in almond butter"
+        ]
+      },
+      "lunch": {
+        "name": "Beyond Meat Salad",
+        "ingredients": [
+          "1 piece mock meat patty",
+          "150g mixed greens",
+          "50g cucumber",
+          "15g olive oil",
+          "10g apple cider vinegar"
+        ],
+        "preparation": [
+          "Grill vegan patty and slice",
+          "Serve over a large green salad with vinaigrette"
+        ]
+      },
+      "snack": {
+        "name": "Macadamia Nuts",
+        "ingredients": [
+          "20g macadamia nuts"
+        ],
+        "preparation": [
+          "Consume raw macadamia nuts"
+        ]
+      },
+      "dinner": {
+        "name": "Kelp Noodles & Vegan Pesto",
+        "ingredients": [
+          "150g kelp noodles",
+          "30g vegan pesto",
+          "50g cherry tomatoes",
+          "10g olive oil"
+        ],
+        "preparation": [
+          "Rinse kelp noodles",
+          "Toss vigorously with vegan pesto and halved tomatoes"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Lentil & Soy Builder",
+    "fitnessGoal": "Lean Muscle Gain",
+    "budgetCategory": "low",
+    "dietaryType": "vegan",
+    "meals": {
+      "breakfast": {
+        "name": "Double Soya Chilla",
+        "ingredients": [
+          "50g besan",
+          "30g soy flour",
+          "50g onion",
+          "10g oil"
+        ],
+        "preparation": [
+          "Mix besan and soy flour into a batter",
+          "Cook thick pancakes on tawa",
+          "Serve hot"
+        ]
+      },
+      "lunch": {
+        "name": "Rajma & Brown Rice",
+        "ingredients": [
+          "80g rajma",
+          "100g brown rice",
+          "50g tomato",
+          "15g oil"
+        ],
+        "preparation": [
+          "Pressure cook kidney beans in a spiced tomato base",
+          "Serve with ample brown rice"
+        ]
+      },
+      "snack": {
+        "name": "Peanut & Jaggery Load",
+        "ingredients": [
+          "40g peanuts",
+          "20g jaggery"
+        ],
+        "preparation": [
+          "Mix roasted peanuts with crushed jaggery for quick energy and protein"
+        ]
+      },
+      "dinner": {
+        "name": "Soya Chunk Sabzi with Roti",
+        "ingredients": [
+          "60g soy chunks",
+          "3 piece roti",
+          "50g onion",
+          "10g oil"
+        ],
+        "preparation": [
+          "Boil soya and prepare a dry sabzi with onions",
+          "Serve with whole wheat rotis"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Chana & Dal Power Mix",
+    "fitnessGoal": "Lean Muscle Gain",
+    "budgetCategory": "low",
+    "dietaryType": "vegan",
+    "meals": {
+      "breakfast": {
+        "name": "Oats with Peanut Butter & Water",
+        "ingredients": [
+          "80g oats",
+          "30g peanut butter",
+          "1 piece banana"
+        ],
+        "preparation": [
+          "Cook oats in water",
+          "Stir in a large scoop of peanut butter and top with banana"
+        ]
+      },
+      "lunch": {
+        "name": "Chana Dal & Rice",
+        "ingredients": [
+          "80g chana dal",
+          "100g rice",
+          "50g tomato",
+          "10g oil"
+        ],
+        "preparation": [
+          "Cook chana dal with thick consistency",
+          "Serve with steamed rice"
+        ]
+      },
+      "snack": {
+        "name": "Sprouted Moong Chunk Salad",
+        "ingredients": [
+          "100g moong sprouts",
+          "30g onion",
+          "10g lemon"
+        ],
+        "preparation": [
+          "Steam sprouts and mix with chopped onions and lemon"
+        ]
+      },
+      "dinner": {
+        "name": "Mixed Dal & Paratha",
+        "ingredients": [
+          "60g mixed dal",
+          "2 piece paratha",
+          "10g oil"
+        ],
+        "preparation": [
+          "Prepare a protein-rich mixed dal",
+          "Serve with plain parathas cooked in vegetable oil"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Daliya & Bean Stack",
+    "fitnessGoal": "Lean Muscle Gain",
+    "budgetCategory": "low",
+    "dietaryType": "vegan",
+    "meals": {
+      "breakfast": {
+        "name": "High Volume Savory Daliya",
+        "ingredients": [
+          "100g daliya",
+          "50g peas",
+          "50g carrot",
+          "15g oil"
+        ],
+        "preparation": [
+          "Roast daliya",
+          "Pressure cook with vegetables for a dense breakfast"
+        ]
+      },
+      "lunch": {
+        "name": "Lobia (Black-eyed peas) & Roti",
+        "ingredients": [
+          "80g lobia",
+          "4 piece roti",
+          "50g tomato",
+          "10g oil"
+        ],
+        "preparation": [
+          "Cook lobia in a spicy tomato gravy",
+          "Serve with multiple rotis"
+        ]
+      },
+      "snack": {
+        "name": "Roasted Chana",
+        "ingredients": [
+          "60g chana"
+        ],
+        "preparation": [
+          "Consume a large portion of dry roasted chana"
+        ]
+      },
+      "dinner": {
+        "name": "Potato & Soya Stir",
+        "ingredients": [
+          "50g soy chunks",
+          "100g potato",
+          "2 piece roti",
+          "10g oil"
+        ],
+        "preparation": [
+          "Stir fry boiled soya and potatoes",
+          "Serve with roti"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Tofu & Quinoa Optimizer",
+    "fitnessGoal": "Lean Muscle Gain",
+    "budgetCategory": "medium",
+    "dietaryType": "vegan",
+    "meals": {
+      "breakfast": {
+        "name": "Tofu Scramble on Toast",
+        "ingredients": [
+          "100g tofu",
+          "2 piece toast",
+          "30g onion",
+          "15g olive oil",
+          "5g turmeric"
+        ],
+        "preparation": [
+          "Scramble tofu with turmeric to mimic eggs",
+          "Serve over thick toast"
+        ]
+      },
+      "lunch": {
+        "name": "Quinoa & Chickpea Bowl",
+        "ingredients": [
+          "80g quinoa",
+          "80g chana",
+          "50g cucumber",
+          "15g tahini"
+        ],
+        "preparation": [
+          "Mix cooked quinoa and boiled chickpeas",
+          "Dress heavily in tahini"
+        ]
+      },
+      "snack": {
+        "name": "Vegan Protein Shake",
+        "ingredients": [
+          "30g vegan protein",
+          "250ml soy milk",
+          "1 piece banana"
+        ],
+        "preparation": [
+          "Blend protein with high-protein soy milk and a banana"
+        ]
+      },
+      "dinner": {
+        "name": "Lentil Pasta in Tomato Sauce",
+        "ingredients": [
+          "80g lentil pasta",
+          "100g tomato sauce",
+          "50g spinach",
+          "10g olive oil"
+        ],
+        "preparation": [
+          "Boil high-protein lentil pasta",
+          "Toss in tomato sauce with fresh wilted spinach"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Soy Milk & Seitan Sustenance",
+    "fitnessGoal": "Lean Muscle Gain",
+    "budgetCategory": "medium",
+    "dietaryType": "vegan",
+    "meals": {
+      "breakfast": {
+        "name": "Overnight Oats in Soy Milk",
+        "ingredients": [
+          "80g oats",
+          "250ml soy milk",
+          "20g chia seeds",
+          "20g peanut butter"
+        ],
+        "preparation": [
+          "Soak oats in soy milk",
+          "Stir in a large spoonful of peanut butter"
+        ]
+      },
+      "lunch": {
+        "name": "Seitan Stir Fry with Rice",
+        "ingredients": [
+          "80g seitan",
+          "100g brown rice",
+          "50g bell pepper",
+          "15g soy sauce",
+          "10g sesame oil"
+        ],
+        "preparation": [
+          "Pan fry seitan strips",
+          "Toss with peppers and soy sauce over brown rice"
+        ]
+      },
+      "snack": {
+        "name": "Almonds & Apple",
+        "ingredients": [
+          "30g almonds",
+          "1 piece apple"
+        ],
+        "preparation": [
+          "Eat raw almonds and a fresh apple"
+        ]
+      },
+      "dinner": {
+        "name": "Thick Masoor Dal & Roti",
+        "ingredients": [
+          "80g masoor dal",
+          "3 piece roti",
+          "15g olive oil"
+        ],
+        "preparation": [
+          "Prepare a dense red lentil soup",
+          "Serve with whole wheat roti"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Edamame & Hummus Core",
+    "fitnessGoal": "Lean Muscle Gain",
+    "budgetCategory": "medium",
+    "dietaryType": "vegan",
+    "meals": {
+      "breakfast": {
+        "name": "Peanut Butter Bagel",
+        "ingredients": [
+          "1 piece bagel",
+          "40g peanut butter",
+          "1 piece banana"
+        ],
+        "preparation": [
+          "Toast bagel, spread generously with peanut butter, top with sliced banana"
+        ]
+      },
+      "lunch": {
+        "name": "Edamame & Hummus Wrap",
+        "ingredients": [
+          "2 piece whole wheat wrap",
+          "80g edamame",
+          "50g hummus",
+          "50g spinach"
+        ],
+        "preparation": [
+          "Smear hummus on wraps, fill with shelled edamame and spinach"
+        ]
+      },
+      "snack": {
+        "name": "Roasted Soybeans",
+        "ingredients": [
+          "50g soybean",
+          "10g olive oil"
+        ],
+        "preparation": [
+          "Roast soybeans for a crunchy high-protein snack"
+        ]
+      },
+      "dinner": {
+        "name": "Soya Keema Matar",
+        "ingredients": [
+          "80g soy chunks",
+          "50g peas",
+          "3 piece roti",
+          "15g oil"
+        ],
+        "preparation": [
+          "Mince soya and cook with peas in a spicy dry base",
+          "Eat with roti"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Premium Tempeh & Quinoa Muscle",
+    "fitnessGoal": "Lean Muscle Gain",
+    "budgetCategory": "high",
+    "dietaryType": "vegan",
+    "meals": {
+      "breakfast": {
+        "name": "Acai Protein Bowl",
+        "ingredients": [
+          "100g acai puree",
+          "30g vegan protein",
+          "50g granola",
+          "20g chia seeds",
+          "150ml almond milk"
+        ],
+        "preparation": [
+          "Blend acai, protein, and milk",
+          "Top thickly with granola and seeds"
+        ]
+      },
+      "lunch": {
+        "name": "Tempeh & Asparagus Quinoa",
+        "ingredients": [
+          "120g tempeh",
+          "100g asparagus",
+          "80g quinoa",
+          "15g olive oil",
+          "10g balsamic vinegar"
+        ],
+        "preparation": [
+          "Bake tempeh and asparagus",
+          "Mix into quinoa and dress with balsamic"
+        ]
+      },
+      "snack": {
+        "name": "Macadamia & Walnut Mix",
+        "ingredients": [
+          "20g macadamia nuts",
+          "20g walnuts"
+        ],
+        "preparation": [
+          "Consume a mix of premium high-calorie nuts"
+        ]
+      },
+      "dinner": {
+        "name": "Beyond Meatballs in Mariana",
+        "ingredients": [
+          "3 piece mock meat patty",
+          "100g lentil pasta",
+          "50g tomato sauce",
+          "15g olive oil"
+        ],
+        "preparation": [
+          "Form patties into meatballs",
+          "Simmer in marinara and serve over protein pasta"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Gourmet Cashew & Tofu Performance",
+    "fitnessGoal": "Lean Muscle Gain",
+    "budgetCategory": "high",
+    "dietaryType": "vegan",
+    "meals": {
+      "breakfast": {
+        "name": "Avocado & Hemp Sourdough",
+        "ingredients": [
+          "2 piece sourdough bread",
+          "80g avocado",
+          "20g hemp seeds",
+          "15g olive oil"
+        ],
+        "preparation": [
+          "Toast thick sourdough slices",
+          "Mash avocado, drizzle oil, cover in hemp seeds"
+        ]
+      },
+      "lunch": {
+        "name": "Tofu & Cashew Stir Fry",
+        "ingredients": [
+          "120g tofu",
+          "40g cashew",
+          "100g jasmine rice",
+          "15g sesame oil",
+          "15g soy sauce"
+        ],
+        "preparation": [
+          "Fry tofu and cashews in sesame oil",
+          "Glaze with soy sauce over jasmine rice"
+        ]
+      },
+      "snack": {
+        "name": "Vegan Protein & Flax Shake",
+        "ingredients": [
+          "30g vegan protein",
+          "250ml soy milk",
+          "15g flaxseeds"
+        ],
+        "preparation": [
+          "Blend protein with soy milk and ground flax"
+        ]
+      },
+      "dinner": {
+        "name": "Mushroom Risotto (Vegan)",
+        "ingredients": [
+          "80g arborio rice",
+          "100g mushroom",
+          "30g nutritional yeast",
+          "15g olive oil",
+          "100ml almond milk"
+        ],
+        "preparation": [
+          "Cook risotto slowly, using almond milk and nutritional yeast for cheesy texture"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "High-Tech Vegan Builder",
+    "fitnessGoal": "Lean Muscle Gain",
+    "budgetCategory": "high",
+    "dietaryType": "vegan",
+    "meals": {
+      "breakfast": {
+        "name": "Protein Pancakes (Vegan)",
+        "ingredients": [
+          "60g oats",
+          "30g vegan protein",
+          "150ml soy milk",
+          "20g maple syrup",
+          "30g pecans"
+        ],
+        "preparation": [
+          "Make batter from oats and protein",
+          "Cook pancakes, top with pecans and syrup"
+        ]
+      },
+      "lunch": {
+        "name": "Seitan Steak & Sweet Potato",
+        "ingredients": [
+          "120g seitan",
+          "150g sweet potato",
+          "50g broccoli",
+          "15g olive oil"
+        ],
+        "preparation": [
+          "Grill seitan steak",
+          "Serve with roasted sweet potatoes and steamed broccoli"
+        ]
+      },
+      "snack": {
+        "name": "Edamame & Pistachio Mix",
+        "ingredients": [
+          "80g edamame",
+          "30g pistachios"
+        ],
+        "preparation": [
+          "Shell and eat edamame alongside pistachios"
+        ]
+      },
+      "dinner": {
+        "name": "Vegan Thai Green Curry",
+        "ingredients": [
+          "100g tofu",
+          "100ml coconut milk",
+          "50g baby corn",
+          "80g brown rice",
+          "15g curry paste"
+        ],
+        "preparation": [
+          "Simmer tofu and veggies in rich coconut milk curry",
+          "Serve over brown rice"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Heavy Lentil & Rice Mass Plan",
+    "fitnessGoal": "Bulking",
+    "budgetCategory": "low",
+    "dietaryType": "vegan",
+    "meals": {
+      "breakfast": {
+        "name": "Double Moong Chilla",
+        "ingredients": [
+          "150g moong dal",
+          "50g onion",
+          "15g vegetable oil",
+          "50g tomato"
+        ],
+        "preparation": [
+          "Blend soaked dal with spices",
+          "Fry thick chillas with generous oil",
+          "Serve hot"
+        ]
+      },
+      "lunch": {
+        "name": "Mega Rajma Chawal",
+        "ingredients": [
+          "100g rajma",
+          "150g brown rice",
+          "50g tomato",
+          "50g onion",
+          "20g olive oil"
+        ],
+        "preparation": [
+          "Cook a rich rajma curry",
+          "Serve over a large portion of steamed rice with extra oil"
+        ]
+      },
+      "snack": {
+        "name": "Peanut Butter Banana Mash",
+        "ingredients": [
+          "50g peanut butter",
+          "200g banana",
+          "200ml soy milk"
+        ],
+        "preparation": [
+          "Mash bananas with peanut butter",
+          "Drink with a large glass of soy milk"
+        ]
+      },
+      "dinner": {
+        "name": "Aloo Matar & Extra Roti",
+        "ingredients": [
+          "100g potato",
+          "80g peas",
+          "4 piece roti",
+          "15g oil"
+        ],
+        "preparation": [
+          "Cook potato and peas in a thick gravy",
+          "Serve with 4 whole wheat rotis"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Soy & Potato Surplus",
+    "fitnessGoal": "Bulking",
+    "budgetCategory": "low",
+    "dietaryType": "vegan",
+    "meals": {
+      "breakfast": {
+        "name": "Heavy Poha with Potatoes",
+        "ingredients": [
+          "120g poha",
+          "80g potato",
+          "40g peanuts",
+          "15g oil"
+        ],
+        "preparation": [
+          "Fry potato cubes and peanuts",
+          "Toss with soaked poha and spices"
+        ]
+      },
+      "lunch": {
+        "name": "Soyabean Curry & Rice",
+        "ingredients": [
+          "80g soy chunks",
+          "150g rice",
+          "50g onion",
+          "20g oil"
+        ],
+        "preparation": [
+          "Prepare a spiced soy chunk curry",
+          "Serve with a large helping of rice"
+        ]
+      },
+      "snack": {
+        "name": "Roasted Chana & Jaggery Load",
+        "ingredients": [
+          "80g chana",
+          "40g jaggery"
+        ],
+        "preparation": [
+          "Mix a large bowl of roasted gram and jaggery chunks"
+        ]
+      },
+      "dinner": {
+        "name": "Dal Makhani Style & Paratha",
+        "ingredients": [
+          "80g mixed dal",
+          "3 piece paratha",
+          "20g oil",
+          "50ml soy milk"
+        ],
+        "preparation": [
+          "Slow cook dal with a splash of soy milk for creaminess",
+          "Serve with thick parathas"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Besan & Wheat Mass Builder",
+    "fitnessGoal": "Bulking",
+    "budgetCategory": "low",
+    "dietaryType": "vegan",
+    "meals": {
+      "breakfast": {
+        "name": "Heavy Daliya Porridge",
+        "ingredients": [
+          "100g daliya",
+          "300ml soy milk",
+          "30g sugar",
+          "20g peanuts"
+        ],
+        "preparation": [
+          "Cook broken wheat in soy milk until thick",
+          "Stir in sugar and peanuts"
+        ]
+      },
+      "lunch": {
+        "name": "Kadhi Pakora Feast",
+        "ingredients": [
+          "60g besan",
+          "150g soy yogurt",
+          "150g rice",
+          "20g oil"
+        ],
+        "preparation": [
+          "Deep fry besan pakoras",
+          "Simmer in soy yogurt-besan gravy",
+          "Serve with abundant rice"
+        ]
+      },
+      "snack": {
+        "name": "Potato Sandwiches",
+        "ingredients": [
+          "150g potato",
+          "4 piece bread",
+          "15g vegan butter"
+        ],
+        "preparation": [
+          "Mash boiled potatoes with spices",
+          "Grill sandwiches with vegan butter"
+        ]
+      },
+      "dinner": {
+        "name": "Chole with Kulcha",
+        "ingredients": [
+          "100g chole",
+          "4 piece roti",
+          "50g onion",
+          "15g oil"
+        ],
+        "preparation": [
+          "Cook chickpeas in a thick gravy",
+          "Serve with 4 rotis"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Tofu & Nut Bulking Plan",
+    "fitnessGoal": "Bulking",
+    "budgetCategory": "medium",
+    "dietaryType": "vegan",
+    "meals": {
+      "breakfast": {
+        "name": "Tofu Paratha with Vegan Butter",
+        "ingredients": [
+          "150g tofu",
+          "3 piece paratha",
+          "20g vegan butter",
+          "100g soy yogurt"
+        ],
+        "preparation": [
+          "Stuff parathas densely with scrambled tofu",
+          "Cook and top with butter",
+          "Serve with soy yogurt"
+        ]
+      },
+      "lunch": {
+        "name": "Dal Makhani & Jeera Rice",
+        "ingredients": [
+          "80g mixed dal",
+          "150g rice",
+          "20g vegan butter",
+          "30ml coconut cream"
+        ],
+        "preparation": [
+          "Cook authentic dal makhani with vegan butter and coconut cream",
+          "Serve with cumin rice"
+        ]
+      },
+      "snack": {
+        "name": "Mass Gainer Shake",
+        "ingredients": [
+          "50g oats",
+          "300ml soy milk",
+          "30g peanut butter",
+          "2 piece banana",
+          "30g vegan protein"
+        ],
+        "preparation": [
+          "Blend all ingredients into a high-calorie shake"
+        ]
+      },
+      "dinner": {
+        "name": "Soya Keema & Roti",
+        "ingredients": [
+          "80g soy chunks",
+          "4 piece roti",
+          "50g peas",
+          "15g oil"
+        ],
+        "preparation": [
+          "Make spicy soya keema with peas",
+          "Serve with multiple rotis"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Avocado & Legume Load",
+    "fitnessGoal": "Bulking",
+    "budgetCategory": "medium",
+    "dietaryType": "vegan",
+    "meals": {
+      "breakfast": {
+        "name": "Avocado & Veggie Sandwich",
+        "ingredients": [
+          "4 piece bread",
+          "50g avocado",
+          "50g tomato",
+          "20g vegan mayo"
+        ],
+        "preparation": [
+          "Layer mashed avocado and veggies in bread",
+          "Grill with mayo"
+        ]
+      },
+      "lunch": {
+        "name": "Large Chole Bhature/Rice",
+        "ingredients": [
+          "120g chole",
+          "150g rice",
+          "20g oil",
+          "50g onion"
+        ],
+        "preparation": [
+          "Prepare rich chole",
+          "Serve over a large mount of rice topped with oil"
+        ]
+      },
+      "snack": {
+        "name": "Soy Yogurt & Nuts Mix",
+        "ingredients": [
+          "200g soy yogurt",
+          "40g mixed nuts",
+          "20g maple syrup"
+        ],
+        "preparation": [
+          "Mix thick soy yogurt with assorted nuts and syrup"
+        ]
+      },
+      "dinner": {
+        "name": "Shahi Tofu & Naan",
+        "ingredients": [
+          "120g tofu",
+          "2 piece naan",
+          "30ml coconut cream",
+          "20g cashew"
+        ],
+        "preparation": [
+          "Cook tofu in a rich cashew-coconut cream gravy",
+          "Serve with garlic naan or roti"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Sweet Potato & Pea Protein Builder",
+    "fitnessGoal": "Bulking",
+    "budgetCategory": "medium",
+    "dietaryType": "vegan",
+    "meals": {
+      "breakfast": {
+        "name": "Peanut Butter Oats Bowl",
+        "ingredients": [
+          "100g oats",
+          "300ml soy milk",
+          "40g peanut butter",
+          "50g banana"
+        ],
+        "preparation": [
+          "Cook oats",
+          "Stir in massive scoop of peanut butter and top with banana"
+        ]
+      },
+      "lunch": {
+        "name": "Sweet Potato & Lentil Curry",
+        "ingredients": [
+          "200g sweet potato",
+          "80g lentil",
+          "150g rice",
+          "15g coconut oil"
+        ],
+        "preparation": [
+          "Roast sweet potato cubes and mix into lentil curry",
+          "Serve with rice"
+        ]
+      },
+      "snack": {
+        "name": "Pea Protein & Almonds",
+        "ingredients": [
+          "30g vegan protein",
+          "300ml soy milk",
+          "30g almonds",
+          "1 piece banana"
+        ],
+        "preparation": [
+          "Blend protein and milk",
+          "Eat banana and almonds alongside"
+        ]
+      },
+      "dinner": {
+        "name": "Mixed Veg Pulao & Raita",
+        "ingredients": [
+          "150g rice",
+          "100g mixed veggies",
+          "50g tofu",
+          "20g oil",
+          "150g soy yogurt"
+        ],
+        "preparation": [
+          "Cook a rich pulao with veggies and fried tofu cubes",
+          "Serve with thick soy yogurt raita"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Gourmet Mass Extravaganza",
+    "fitnessGoal": "Bulking",
+    "budgetCategory": "high",
+    "dietaryType": "vegan",
+    "meals": {
+      "breakfast": {
+        "name": "Avocado & Hummus Thick Toast",
+        "ingredients": [
+          "4 piece multigrain bread",
+          "100g avocado",
+          "80g hummus",
+          "20g olive oil",
+          "15g pumpkin seeds"
+        ],
+        "preparation": [
+          "Toast bread, stack high with mashed avocado and hummus",
+          "Drizzle with olive oil and seeds"
+        ]
+      },
+      "lunch": {
+        "name": "Quinoa, Edamame & Tempeh Bowl",
+        "ingredients": [
+          "120g quinoa",
+          "100g edamame",
+          "100g tempeh",
+          "20g tahini",
+          "20g olive oil"
+        ],
+        "preparation": [
+          "Pan fry tempeh in olive oil",
+          "Mix with massive serving of quinoa and edamame",
+          "Dress heavily in tahini"
+        ]
+      },
+      "snack": {
+        "name": "Premium Gainer Shake",
+        "ingredients": [
+          "50g vegan protein",
+          "300ml oat milk",
+          "50g peanut butter",
+          "100g banana",
+          "20g chia seeds"
+        ],
+        "preparation": [
+          "Blend into a dense 800+ calorie shake"
+        ]
+      },
+      "dinner": {
+        "name": "Creamy Mushroom & Truffle Pasta",
+        "ingredients": [
+          "150g pasta",
+          "150g mushroom",
+          "50ml cashew cream",
+          "30g nutritional yeast",
+          "15g olive oil"
+        ],
+        "preparation": [
+          "Cook pasta",
+          "Saut\u00e9 mushrooms in olive oil, add cashew cream and nutritional yeast for thick sauce"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Plant Power Surplus",
+    "fitnessGoal": "Bulking",
+    "budgetCategory": "high",
+    "dietaryType": "vegan",
+    "meals": {
+      "breakfast": {
+        "name": "Pecan & Maple Oatmeal",
+        "ingredients": [
+          "120g oats",
+          "300ml oat milk",
+          "40g pecan",
+          "30g maple syrup",
+          "1 piece apple"
+        ],
+        "preparation": [
+          "Cook hearty oats",
+          "Mix in crushed pecans, maple syrup, and chopped apple"
+        ]
+      },
+      "lunch": {
+        "name": "Beyond Meat Burger",
+        "ingredients": [
+          "1 piece mock meat patty",
+          "2 piece burger bun",
+          "20g vegan cheese",
+          "20g vegan mayo",
+          "100g sweet potato fries"
+        ],
+        "preparation": [
+          "Grill patty and assemble burger with vegan cheese and mayo",
+          "Serve with air-fried sweet potato fries"
+        ]
+      },
+      "snack": {
+        "name": "Soy Yogurt Parfait Deluxe",
+        "ingredients": [
+          "250g soy yogurt",
+          "60g granola",
+          "40g mixed berries",
+          "20g maple syrup"
+        ],
+        "preparation": [
+          "Layer dense soy yogurt with extra granola and syrup"
+        ]
+      },
+      "dinner": {
+        "name": "Rich Malai Tofu & Naan",
+        "ingredients": [
+          "3 piece tofu kofta",
+          "100g tofu",
+          "50ml coconut cream",
+          "2 piece naan",
+          "15g vegan butter"
+        ],
+        "preparation": [
+          "Prepare tofu kofta in rich creamy gravy",
+          "Serve with vegan butter naan"
+        ]
+      }
+    }
+  },
+  {
+    "planName": "Nut-Dense Bulk Plan",
+    "fitnessGoal": "Bulking",
+    "budgetCategory": "high",
+    "dietaryType": "vegan",
+    "meals": {
+      "breakfast": {
+        "name": "Almond Butter Pancakes",
+        "ingredients": [
+          "100g vegan pancake mix",
+          "200ml almond milk",
+          "40g almond butter",
+          "50g berries",
+          "20g maple syrup"
+        ],
+        "preparation": [
+          "Cook large stack of pancakes",
+          "Smother in almond butter and syrup"
+        ]
+      },
+      "lunch": {
+        "name": "Tofu & Cashew Stir Fry",
+        "ingredients": [
+          "150g tofu",
+          "50g cashew",
+          "150g jasmine rice",
+          "20g sesame oil",
+          "15g soy sauce"
+        ],
+        "preparation": [
+          "Fry tofu and cashews in sesame oil",
+          "Toss with a sticky soy glaze",
+          "Serve over jasmine rice"
+        ]
+      },
+      "snack": {
+        "name": "Trail Mix & Protein Profile",
+        "ingredients": [
+          "60g mixed nuts",
+          "40g dates",
+          "30g vegan protein",
+          "250ml oat milk"
+        ],
+        "preparation": [
+          "Eat high-calorie nuts and dates",
+          "Wash down with a vegan protein shake"
+        ]
+      },
+      "dinner": {
+        "name": "Vegan Cheese Pizza (Personal)",
+        "ingredients": [
+          "1 piece pizza base",
+          "100g vegan cheese",
+          "50g tomato sauce",
+          "20g olive oil"
+        ],
+        "preparation": [
+          "Bake a personal thick-crust pizza loaded with vegan cheese and olive oil"
+        ]
+      }
+    }
+  }
+]

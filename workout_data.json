@@ -1,0 +1,216 @@
+[
+  {
+    "template_id": "youth_0_10_sedentary",
+    "target_demographic": { "age_groups": ["0-10"], "activity_level": "sedentary" },
+    "focus": "Active Play & Basic Movement",
+    "schedule": [
+      { "day_number": 1, "day_name": "Movement A", "routine": [ { "name": "Bear Crawls", "sets": 3, "reps": "30 secs", "rest": 60 }, { "name": "Jumping Jacks", "sets": 3, "reps": 15, "rest": 60 } ] },
+      { "day_number": 2, "day_name": "Rest", "routine": [] },
+      { "day_number": 3, "day_name": "Movement B", "routine": [ { "name": "Frog Jumps", "sets": 3, "reps": 10, "rest": 60 }, { "name": "Balance on one leg", "sets": 3, "reps": "20 secs", "rest": 60 } ] },
+      { "day_number": 4, "day_name": "Rest", "routine": [] },
+      { "day_number": 5, "day_name": "Movement C", "routine": [ { "name": "Crab Walks", "sets": 3, "reps": "30 secs", "rest": 60 }, { "name": "High Knees", "sets": 3, "reps": "30 secs", "rest": 60 } ] },
+      { "day_number": 6, "day_name": "Rest", "routine": [] },
+      { "day_number": 7, "day_name": "Rest", "routine": [] }
+    ]
+  },
+  {
+    "template_id": "youth_0_10_moderate",
+    "target_demographic": { "age_groups": ["0-10"], "activity_level": "moderate" },
+    "focus": "Coordination & Agility",
+    "schedule": [
+      { "day_number": 1, "day_name": "Agility A", "routine": [ { "name": "Hopscotch", "sets": 3, "reps": "1 min", "rest": 60 }, { "name": "Bodyweight Squats", "sets": 3, "reps": 10, "rest": 60 } ] },
+      { "day_number": 2, "day_name": "Agility B", "routine": [ { "name": "Tag / Sprinting", "sets": 5, "reps": "30 secs", "rest": 60 } ] },
+      { "day_number": 3, "day_name": "Rest", "routine": [] },
+      { "day_number": 4, "day_name": "Agility C", "routine": [ { "name": "Monkey Bars", "sets": 3, "reps": "Max", "rest": 60 }, { "name": "Step-ups", "sets": 3, "reps": 10, "rest": 60 } ] },
+      { "day_number": 5, "day_name": "Agility D", "routine": [ { "name": "Skipping Rope", "sets": 3, "reps": "1 min", "rest": 60 } ] },
+      { "day_number": 6, "day_name": "Rest", "routine": [] },
+      { "day_number": 7, "day_name": "Rest", "routine": [] }
+    ]
+  },
+  {
+    "template_id": "youth_0_10_active",
+    "target_demographic": { "age_groups": ["0-10"], "activity_level": "active" },
+    "focus": "Sports Foundation",
+    "schedule": [
+      { "day_number": 1, "day_name": "Sports Prep A", "routine": [ { "name": "Broad Jumps", "sets": 3, "reps": 8, "rest": 60 }, { "name": "Push-ups (Knees)", "sets": 3, "reps": 10, "rest": 60 } ] },
+      { "day_number": 2, "day_name": "Sports Prep B", "routine": [ { "name": "Plank", "sets": 3, "reps": "30 secs", "rest": 60 }, { "name": "Sprint Drills", "sets": 5, "reps": "20m", "rest": 60 } ] },
+      { "day_number": 3, "day_name": "Sports Prep C", "routine": [ { "name": "Pull-up Hangs", "sets": 3, "reps": "20 secs", "rest": 60 }, { "name": "Walking Lunges", "sets": 3, "reps": 12, "rest": 60 } ] },
+      { "day_number": 4, "day_name": "Sports Prep D", "routine": [ { "name": "Burpees", "sets": 3, "reps": 10, "rest": 60 }, { "name": "Side Shuffles", "sets": 3, "reps": "30 secs", "rest": 60 } ] },
+      { "day_number": 5, "day_name": "Sports Prep E", "routine": [ { "name": "Box Jumps (Low)", "sets": 3, "reps": 8, "rest": 60 }, { "name": "Sit-ups", "sets": 3, "reps": 15, "rest": 60 } ] },
+      { "day_number": 6, "day_name": "Active Play", "routine": [ { "name": "Free Play / Sports", "sets": 1, "reps": "60 mins", "rest": 0 } ] },
+      { "day_number": 7, "day_name": "Rest", "routine": [] }
+    ]
+  },
+
+  {
+    "template_id": "teens_11_20_sedentary",
+    "target_demographic": { "age_groups": ["11-20"], "activity_level": "sedentary" },
+    "focus": "Introduction to Form (3-Day)",
+    "schedule": [
+      { "day_number": 1, "day_name": "Full Body A", "routine": [ { "name": "Bodyweight Squats", "sets": 3, "reps": 12, "rest": 90 }, { "name": "Wall Push-ups", "sets": 3, "reps": 12, "rest": 90 } ] },
+      { "day_number": 2, "day_name": "Rest", "routine": [] },
+      { "day_number": 3, "day_name": "Full Body B", "routine": [ { "name": "Lunges", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Plank", "sets": 3, "reps": "45 secs", "rest": 60 } ] },
+      { "day_number": 4, "day_name": "Rest", "routine": [] },
+      { "day_number": 5, "day_name": "Full Body C", "routine": [ { "name": "Glute Bridges", "sets": 3, "reps": 15, "rest": 90 }, { "name": "Superman Holds", "sets": 3, "reps": 12, "rest": 90 } ] },
+      { "day_number": 6, "day_name": "Rest", "routine": [] },
+      { "day_number": 7, "day_name": "Rest", "routine": [] }
+    ]
+  },
+  {
+    "template_id": "teens_11_20_moderate",
+    "target_demographic": { "age_groups": ["11-20"], "activity_level": "moderate" },
+    "focus": "Athletic Base (4-Day Upper/Lower)",
+    "schedule": [
+      { "day_number": 1, "day_name": "Lower Body", "routine": [ { "name": "Goblet Squats", "sets": 3, "reps": 12, "rest": 90 }, { "name": "Romanian Deadlifts (Dumbbell)", "sets": 3, "reps": 12, "rest": 90 }, { "name": "Calf Raises", "sets": 3, "reps": 15, "rest": 60 } ] },
+      { "day_number": 2, "day_name": "Upper Body", "routine": [ { "name": "Push-ups", "sets": 3, "reps": "Max", "rest": 90 }, { "name": "Dumbbell Rows", "sets": 3, "reps": 12, "rest": 90 }, { "name": "Dumbbell Shoulder Press", "sets": 3, "reps": 10, "rest": 90 } ] },
+      { "day_number": 3, "day_name": "Rest", "routine": [] },
+      { "day_number": 4, "day_name": "Lower Body", "routine": [ { "name": "Walking Lunges", "sets": 3, "reps": 12, "rest": 90 }, { "name": "Leg Press", "sets": 3, "reps": 12, "rest": 90 }, { "name": "Hanging Leg Raises", "sets": 3, "reps": 10, "rest": 60 } ] },
+      { "day_number": 5, "day_name": "Upper Body", "routine": [ { "name": "Lat Pulldowns", "sets": 3, "reps": 12, "rest": 90 }, { "name": "Dumbbell Bench Press", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Bicep Curls", "sets": 3, "reps": 12, "rest": 60 } ] },
+      { "day_number": 6, "day_name": "Rest", "routine": [] },
+      { "day_number": 7, "day_name": "Rest", "routine": [] }
+    ]
+  },
+  {
+    "template_id": "teens_11_20_active",
+    "target_demographic": { "age_groups": ["11-20"], "activity_level": "active" },
+    "focus": "Hypertrophy & Power (6-Day PPL)",
+    "schedule": [
+      { "day_number": 1, "day_name": "Push", "routine": [ { "name": "Barbell Bench Press", "sets": 4, "reps": 8, "rest": 120 }, { "name": "Overhead Press", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Tricep Pushdowns", "sets": 3, "reps": 12, "rest": 60 } ] },
+      { "day_number": 2, "day_name": "Pull", "routine": [ { "name": "Pull-ups", "sets": 4, "reps": "Max", "rest": 120 }, { "name": "Barbell Rows", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Hammer Curls", "sets": 3, "reps": 12, "rest": 60 } ] },
+      { "day_number": 3, "day_name": "Legs", "routine": [ { "name": "Barbell Squats", "sets": 4, "reps": 8, "rest": 120 }, { "name": "Leg Extensions", "sets": 3, "reps": 12, "rest": 90 }, { "name": "Calf Raises", "sets": 4, "reps": 15, "rest": 60 } ] },
+      { "day_number": 4, "day_name": "Push", "routine": [ { "name": "Incline Dumbbell Press", "sets": 3, "reps": 10, "rest": 120 }, { "name": "Lateral Raises", "sets": 4, "reps": 15, "rest": 60 }, { "name": "Skull Crushers", "sets": 3, "reps": 12, "rest": 60 } ] },
+      { "day_number": 5, "day_name": "Pull", "routine": [ { "name": "Lat Pulldowns", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Face Pulls", "sets": 3, "reps": 15, "rest": 60 }, { "name": "Preacher Curls", "sets": 3, "reps": 12, "rest": 60 } ] },
+      { "day_number": 6, "day_name": "Legs", "routine": [ { "name": "Romanian Deadlifts", "sets": 4, "reps": 8, "rest": 120 }, { "name": "Leg Curls", "sets": 3, "reps": 12, "rest": 90 }, { "name": "Plank", "sets": 3, "reps": "60 secs", "rest": 60 } ] },
+      { "day_number": 7, "day_name": "Rest", "routine": [] }
+    ]
+  },
+
+  {
+    "template_id": "adult_21_40_sedentary",
+    "target_demographic": { "age_groups": ["21-30", "31-40"], "activity_level": "sedentary" },
+    "focus": "Posture Correction & Full Body (3-Day)",
+    "schedule": [
+      { "day_number": 1, "day_name": "Full Body A", "routine": [ { "name": "Dumbbell Goblet Squats", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Dumbbell Bench Press", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Plank", "sets": 3, "reps": "45 secs", "rest": 60 } ] },
+      { "day_number": 2, "day_name": "Rest", "routine": [] },
+      { "day_number": 3, "day_name": "Full Body B", "routine": [ { "name": "Lat Pulldowns", "sets": 3, "reps": 12, "rest": 90 }, { "name": "Dumbbell Romanian Deadlifts", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Russian Twists", "sets": 3, "reps": 20, "rest": 60 } ] },
+      { "day_number": 4, "day_name": "Rest", "routine": [] },
+      { "day_number": 5, "day_name": "Full Body C", "routine": [ { "name": "Seated Dumbbell Press", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Leg Press", "sets": 3, "reps": 12, "rest": 90 }, { "name": "Bird-Dog", "sets": 3, "reps": 12, "rest": 60 } ] },
+      { "day_number": 6, "day_name": "Rest", "routine": [] },
+      { "day_number": 7, "day_name": "Rest", "routine": [] }
+    ]
+  },
+  {
+    "template_id": "adult_21_40_moderate",
+    "target_demographic": { "age_groups": ["21-30", "31-40"], "activity_level": "moderate" },
+    "focus": "Standard Hypertrophy (4-Day Upper/Lower)",
+    "schedule": [
+      { "day_number": 1, "day_name": "Upper A", "routine": [ { "name": "Barbell Bench Press", "sets": 3, "reps": 8, "rest": 120 }, { "name": "Barbell Rows", "sets": 3, "reps": 8, "rest": 120 }, { "name": "Lateral Raises", "sets": 3, "reps": 15, "rest": 60 } ] },
+      { "day_number": 2, "day_name": "Lower A", "routine": [ { "name": "Barbell Back Squats", "sets": 3, "reps": 8, "rest": 120 }, { "name": "Leg Curls", "sets": 3, "reps": 12, "rest": 90 }, { "name": "Calf Raises", "sets": 4, "reps": 15, "rest": 60 } ] },
+      { "day_number": 3, "day_name": "Rest", "routine": [] },
+      { "day_number": 4, "day_name": "Upper B", "routine": [ { "name": "Overhead Press", "sets": 3, "reps": 8, "rest": 120 }, { "name": "Pull-ups", "sets": 3, "reps": "Max", "rest": 120 }, { "name": "Bicep Curls", "sets": 3, "reps": 12, "rest": 60 } ] },
+      { "day_number": 5, "day_name": "Lower B", "routine": [ { "name": "Romanian Deadlifts", "sets": 3, "reps": 8, "rest": 120 }, { "name": "Leg Press", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Cable Crunches", "sets": 3, "reps": 15, "rest": 60 } ] },
+      { "day_number": 6, "day_name": "Rest", "routine": [] },
+      { "day_number": 7, "day_name": "Rest", "routine": [] }
+    ]
+  },
+  {
+    "template_id": "adult_21_40_active",
+    "target_demographic": { "age_groups": ["21-30", "31-40"], "activity_level": "active" },
+    "focus": "Advanced Strength & Size (6-Day PPL)",
+    "schedule": [
+      { "day_number": 1, "day_name": "Push A", "routine": [ { "name": "Barbell Bench Press", "sets": 4, "reps": 5, "rest": 120 }, { "name": "Overhead Dumbbell Press", "sets": 3, "reps": 8, "rest": 90 }, { "name": "Incline Dumbbell Press", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Lateral Raises", "sets": 4, "reps": 15, "rest": 60 }, { "name": "Tricep Pushdowns", "sets": 3, "reps": 12, "rest": 60 } ] },
+      { "day_number": 2, "day_name": "Pull A", "routine": [ { "name": "Deadlift", "sets": 3, "reps": 5, "rest": 180 }, { "name": "Lat Pulldowns", "sets": 3, "reps": 8, "rest": 90 }, { "name": "Seated Cable Rows", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Face Pulls", "sets": 3, "reps": 15, "rest": 60 }, { "name": "Barbell Curls", "sets": 3, "reps": 10, "rest": 60 } ] },
+      { "day_number": 3, "day_name": "Legs A", "routine": [ { "name": "Barbell Squats", "sets": 4, "reps": 5, "rest": 120 }, { "name": "Romanian Deadlifts", "sets": 3, "reps": 8, "rest": 90 }, { "name": "Leg Press", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Leg Extensions", "sets": 3, "reps": 12, "rest": 60 }, { "name": "Calf Raises", "sets": 4, "reps": 15, "rest": 60 } ] },
+      { "day_number": 4, "day_name": "Push B", "routine": [ { "name": "Overhead Barbell Press", "sets": 4, "reps": 5, "rest": 120 }, { "name": "Flat Dumbbell Press", "sets": 3, "reps": 8, "rest": 90 }, { "name": "Pec Deck", "sets": 3, "reps": 12, "rest": 60 }, { "name": "Lateral Raises", "sets": 4, "reps": 15, "rest": 60 }, { "name": "Overhead Tricep Extension", "sets": 3, "reps": 10, "rest": 60 } ] },
+      { "day_number": 5, "day_name": "Pull B", "routine": [ { "name": "Pull-ups", "sets": 4, "reps": "Max", "rest": 120 }, { "name": "Barbell Rows", "sets": 3, "reps": 8, "rest": 90 }, { "name": "Close Grip Pulldowns", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Hammer Curls", "sets": 3, "reps": 10, "rest": 60 }, { "name": "Preacher Curls", "sets": 3, "reps": 12, "rest": 60 } ] },
+      { "day_number": 6, "day_name": "Legs B", "routine": [ { "name": "Front Squats", "sets": 3, "reps": 8, "rest": 120 }, { "name": "Walking Lunges", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Seated Leg Curls", "sets": 3, "reps": 10, "rest": 60 }, { "name": "Seated Calf Raises", "sets": 4, "reps": 15, "rest": 60 }, { "name": "Hanging Leg Raises", "sets": 3, "reps": 10, "rest": 60 } ] },
+      { "day_number": 7, "day_name": "Rest", "routine": [] }
+    ]
+  },
+
+  {
+    "template_id": "adult_41_60_sedentary",
+    "target_demographic": { "age_groups": ["41-50", "51-60"], "activity_level": "sedentary" },
+    "focus": "Joint Mobility & Basic Strength (3-Day)",
+    "schedule": [
+      { "day_number": 1, "day_name": "Machine Full Body A", "routine": [ { "name": "Machine Chest Press", "sets": 3, "reps": 12, "rest": 90 }, { "name": "Leg Press", "sets": 3, "reps": 12, "rest": 90 }, { "name": "Bird-Dog", "sets": 3, "reps": 10, "rest": 60 } ] },
+      { "day_number": 2, "day_name": "Rest", "routine": [] },
+      { "day_number": 3, "day_name": "Machine Full Body B", "routine": [ { "name": "Seated Cable Rows", "sets": 3, "reps": 12, "rest": 90 }, { "name": "Leg Extensions", "sets": 3, "reps": 12, "rest": 90 }, { "name": "Deadbugs", "sets": 3, "reps": 10, "rest": 60 } ] },
+      { "day_number": 4, "day_name": "Rest", "routine": [] },
+      { "day_number": 5, "day_name": "Machine Full Body C", "routine": [ { "name": "Machine Shoulder Press", "sets": 3, "reps": 12, "rest": 90 }, { "name": "Seated Leg Curls", "sets": 3, "reps": 12, "rest": 90 }, { "name": "Plank (from knees if needed)", "sets": 3, "reps": "30 secs", "rest": 60 } ] },
+      { "day_number": 6, "day_name": "Rest", "routine": [] },
+      { "day_number": 7, "day_name": "Rest", "routine": [] }
+    ]
+  },
+  {
+    "template_id": "adult_41_60_moderate",
+    "target_demographic": { "age_groups": ["41-50", "51-60"], "activity_level": "moderate" },
+    "focus": "Controlled Load Maintenance (4-Day)",
+    "schedule": [
+      { "day_number": 1, "day_name": "Upper A", "routine": [ { "name": "Incline Dumbbell Press", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Lat Pulldowns", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Tricep Pushdowns", "sets": 3, "reps": 12, "rest": 60 } ] },
+      { "day_number": 2, "day_name": "Lower A", "routine": [ { "name": "Trap Bar Deadlift", "sets": 3, "reps": 8, "rest": 120 }, { "name": "Goblet Squats", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Calf Raises", "sets": 3, "reps": 15, "rest": 60 } ] },
+      { "day_number": 3, "day_name": "Rest", "routine": [] },
+      { "day_number": 4, "day_name": "Upper B", "routine": [ { "name": "Seated Dumbbell Press", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Cable Rows", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Dumbbell Curls", "sets": 3, "reps": 12, "rest": 60 } ] },
+      { "day_number": 5, "day_name": "Lower B", "routine": [ { "name": "Leg Press", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Romanian Deadlifts (Dumbbell)", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Plank", "sets": 3, "reps": "45 secs", "rest": 60 } ] },
+      { "day_number": 6, "day_name": "Rest", "routine": [] },
+      { "day_number": 7, "day_name": "Rest", "routine": [] }
+    ]
+  },
+  {
+    "template_id": "adult_41_60_active",
+    "target_demographic": { "age_groups": ["41-50", "51-60"], "activity_level": "active" },
+    "focus": "Longevity & Power (6-Day Modified PPL)",
+    "schedule": [
+      { "day_number": 1, "day_name": "Push A", "routine": [ { "name": "Flat Dumbbell Press", "sets": 4, "reps": 8, "rest": 120 }, { "name": "Machine Shoulder Press", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Cable Lateral Raises", "sets": 3, "reps": 12, "rest": 60 }, { "name": "Rope Pushdowns", "sets": 3, "reps": 12, "rest": 60 } ] },
+      { "day_number": 2, "day_name": "Pull A", "routine": [ { "name": "Lat Pulldowns", "sets": 4, "reps": 8, "rest": 90 }, { "name": "Chest-Supported Rows", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Face Pulls", "sets": 3, "reps": 12, "rest": 60 }, { "name": "Hammer Curls", "sets": 3, "reps": 12, "rest": 60 } ] },
+      { "day_number": 3, "day_name": "Legs A", "routine": [ { "name": "Leg Press", "sets": 4, "reps": 8, "rest": 120 }, { "name": "Leg Curls", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Leg Extensions", "sets": 3, "reps": 12, "rest": 60 }, { "name": "Calf Raises", "sets": 4, "reps": 15, "rest": 60 } ] },
+      { "day_number": 4, "day_name": "Push B", "routine": [ { "name": "Incline Machine Press", "sets": 4, "reps": 8, "rest": 90 }, { "name": "Seated Dumbbell Press", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Pec Deck", "sets": 3, "reps": 12, "rest": 60 }, { "name": "Overhead Tricep Extension", "sets": 3, "reps": 12, "rest": 60 } ] },
+      { "day_number": 5, "day_name": "Pull B", "routine": [ { "name": "Seated Cable Rows", "sets": 4, "reps": 8, "rest": 90 }, { "name": "Neutral Grip Pulldowns", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Dumbbell Shrugs", "sets": 3, "reps": 12, "rest": 60 }, { "name": "Bicep Curls", "sets": 3, "reps": 12, "rest": 60 } ] },
+      { "day_number": 6, "day_name": "Legs B", "routine": [ { "name": "Trap Bar Deadlift", "sets": 3, "reps": 8, "rest": 120 }, { "name": "Bulgarian Split Squats", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Seated Calf Raises", "sets": 4, "reps": 15, "rest": 60 }, { "name": "Ab Crunch Machine", "sets": 3, "reps": 15, "rest": 60 } ] },
+      { "day_number": 7, "day_name": "Rest", "routine": [] }
+    ]
+  },
+
+  {
+    "template_id": "senior_61_70_sedentary",
+    "target_demographic": { "age_groups": ["61-70+"], "activity_level": "sedentary" },
+    "focus": "Fall Prevention & Daily Function (3-Day)",
+    "schedule": [
+      { "day_number": 1, "day_name": "Mobility & Balance A", "routine": [ { "name": "Chair Squats", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Wall Push-ups", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Heel-to-Toe Walk", "sets": 3, "reps": "10 steps", "rest": 60 } ] },
+      { "day_number": 2, "day_name": "Rest", "routine": [] },
+      { "day_number": 3, "day_name": "Mobility & Balance B", "routine": [ { "name": "Resistance Band Rows", "sets": 3, "reps": 12, "rest": 90 }, { "name": "Seated Leg Extensions (No Weight)", "sets": 3, "reps": 15, "rest": 90 }, { "name": "Single Leg Stand (hold chair)", "sets": 3, "reps": "20 secs", "rest": 60 } ] },
+      { "day_number": 4, "day_name": "Rest", "routine": [] },
+      { "day_number": 5, "day_name": "Mobility & Balance C", "routine": [ { "name": "Step-Ups (Low Box)", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Resistance Band Chest Press", "sets": 3, "reps": 12, "rest": 90 }, { "name": "Seated Marches", "sets": 3, "reps": 20, "rest": 60 } ] },
+      { "day_number": 6, "day_name": "Rest", "routine": [] },
+      { "day_number": 7, "day_name": "Rest", "routine": [] }
+    ]
+  },
+  {
+    "template_id": "senior_61_70_moderate",
+    "target_demographic": { "age_groups": ["61-70+"], "activity_level": "moderate" },
+    "focus": "Active Aging Light Resistance (4-Day)",
+    "schedule": [
+      { "day_number": 1, "day_name": "Upper Body Focus", "routine": [ { "name": "Machine Chest Press", "sets": 3, "reps": 12, "rest": 90 }, { "name": "Machine Rows", "sets": 3, "reps": 12, "rest": 90 }, { "name": "Light Dumbbell Curls", "sets": 3, "reps": 12, "rest": 60 } ] },
+      { "day_number": 2, "day_name": "Lower Body Focus", "routine": [ { "name": "Leg Press (Light)", "sets": 3, "reps": 12, "rest": 90 }, { "name": "Glute Bridges", "sets": 3, "reps": 12, "rest": 90 }, { "name": "Standing Calf Raises", "sets": 3, "reps": 15, "rest": 60 } ] },
+      { "day_number": 3, "day_name": "Rest", "routine": [] },
+      { "day_number": 4, "day_name": "Upper Body Focus", "routine": [ { "name": "Lat Pulldowns", "sets": 3, "reps": 12, "rest": 90 }, { "name": "Machine Shoulder Press", "sets": 3, "reps": 12, "rest": 90 }, { "name": "Tricep Cable Pushdowns", "sets": 3, "reps": 12, "rest": 60 } ] },
+      { "day_number": 5, "day_name": "Lower Body Focus", "routine": [ { "name": "Goblet Squats (Light)", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Seated Leg Curls", "sets": 3, "reps": 12, "rest": 90 }, { "name": "Bird-Dog", "sets": 3, "reps": 10, "rest": 60 } ] },
+      { "day_number": 6, "day_name": "Rest", "routine": [] },
+      { "day_number": 7, "day_name": "Rest", "routine": [] }
+    ]
+  },
+  {
+    "template_id": "senior_61_70_active",
+    "target_demographic": { "age_groups": ["61-70+"], "activity_level": "active" },
+    "focus": "Bone Density & Muscle Maintenance (6-Day Split)",
+    "schedule": [
+      { "day_number": 1, "day_name": "Push A", "routine": [ { "name": "Dumbbell Bench Press", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Machine Shoulder Press", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Tricep Pushdowns", "sets": 3, "reps": 12, "rest": 60 } ] },
+      { "day_number": 2, "day_name": "Pull A", "routine": [ { "name": "Lat Pulldowns", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Seated Cable Rows", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Dumbbell Curls", "sets": 3, "reps": 12, "rest": 60 } ] },
+      { "day_number": 3, "day_name": "Legs A", "routine": [ { "name": "Leg Press", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Leg Extensions", "sets": 3, "reps": 12, "rest": 60 }, { "name": "Calf Raises", "sets": 3, "reps": 15, "rest": 60 } ] },
+      { "day_number": 4, "day_name": "Push B", "routine": [ { "name": "Incline Machine Press", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Dumbbell Lateral Raises", "sets": 3, "reps": 12, "rest": 60 }, { "name": "Pec Deck", "sets": 3, "reps": 12, "rest": 60 } ] },
+      { "day_number": 5, "day_name": "Pull B", "routine": [ { "name": "Machine Rows", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Straight Arm Pulldowns", "sets": 3, "reps": 12, "rest": 60 }, { "name": "Hammer Curls", "sets": 3, "reps": 12, "rest": 60 } ] },
+      { "day_number": 6, "day_name": "Legs B", "routine": [ { "name": "Goblet Squats", "sets": 3, "reps": 10, "rest": 90 }, { "name": "Seated Leg Curls", "sets": 3, "reps": 12, "rest": 60 }, { "name": "Plank", "sets": 3, "reps": "45 secs", "rest": 60 } ] },
+      { "day_number": 7, "day_name": "Rest", "routine": [] }
+    ]
+  }
+]

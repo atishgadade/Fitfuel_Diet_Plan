@@ -1,0 +1,15 @@
+{
+    "executionEnvironments": [
+        {
+            "root": ".",
+            "extraPaths": [
+                "."
+            ]
+        }
+    ],
+    "venvPath": ".",
+    "venv": "venv",
+    "reportGeneralTypeIssues": "warning",
+    "reportCallInDefaultInitializer": false,
+    "typeCheckingMode": "basic"
+}

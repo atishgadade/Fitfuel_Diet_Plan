@@ -1,0 +1,21 @@
+{
+    "name": "fit-fuel-server",
+    "version": "1.0.0",
+    "description": "Fit-Fuel API Gateway and Auth",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "dev": "nodemon index.js"
+    },
+    "dependencies": {
+        "auth-middleware": "^1.0.0",
+        "axios": "^1.6.8",
+        "cors": "^2.8.5",
+        "dotenv": "^16.6.1",
+        "express": "^4.19.2",
+        "firebase-admin": "^12.1.0"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.0"
+    }
+}

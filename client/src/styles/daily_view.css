@@ -1,0 +1,94 @@
+.daily-page {
+  min-height: 100vh;
+  background-color: var(--color-bg-primary);
+}
+
+.daily-container {
+  max-width: var(--max-width-md);
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+.back-btn {
+  background: none;
+  border: none;
+  color: var(--color-primary);
+  font-weight: 600;
+  cursor: pointer;
+  margin-bottom: 30px;
+  font-family: var(--font-body);
+  transition: transform 0.2s;
+}
+
+.back-btn:hover {
+  transform: translateX(-5px);
+}
+
+.daily-header {
+  margin-bottom: 40px;
+  animation: fadeSlideUp 0.4s ease-out;
+}
+
+.day-title {
+  font-size: var(--text-3xl);
+  color: var(--color-secondary-dark);
+  margin-bottom: 8px;
+}
+
+.day-subtitle {
+  color: var(--color-text-secondary);
+  font-size: var(--text-base);
+}
+
+.exercise-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  animation: fadeIn 0.6s ease-out;
+}
+
+.exercise-card {
+  background: var(--color-bg-card);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  padding: 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: var(--shadow-sm);
+  transition: box-shadow 0.2s;
+}
+
+.exercise-card:hover {
+  box-shadow: var(--shadow-md);
+}
+
+.exercise-name {
+  font-size: var(--text-lg);
+  color: var(--color-text-primary);
+  margin-bottom: 12px;
+}
+
+.exercise-meta {
+  display: flex;
+  gap: 20px;
+}
+
+.meta-item {
+  font-size: var(--text-sm);
+  color: var(--color-text-secondary);
+  background: var(--color-bg-secondary);
+  padding: 4px 12px;
+  border-radius: var(--radius-sm);
+}
+
+.meta-item strong {
+  color: var(--color-primary);
+}
+
+@media (max-width: 480px) {
+  .exercise-meta {
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+}

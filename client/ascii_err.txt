@@ -1,0 +1,86 @@
+
+> fitfuel@0.0.0 build
+> vite build
+
+[36mvite v7.3.1 [32mbuilding client environment for production...[36m[39m
+transforming...
+[32m???[39m 29 modules transformed.
+node.exe : [31m???[39m 
+Build failed in 503ms
+At C:\Program 
+Files\nodejs\npm.ps1:29 
+char:3
++   & $NODE_EXE $NPM_CLI_JS 
+$args
++   
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo           
+   : NotSpecified: ([31m??  
+  ?[39m Build failed in 5   
+ 03ms:String) [], RemoteE    
+xception
+    + FullyQualifiedErrorId  
+   : NativeCommandError
+ 
+[31merror during build:
+[31msrc/main.jsx (4:7): 
+"default" is not exported by 
+"src/styles/App.css", 
+imported by 
+"src/main.jsx".[31m
+file: [36mD:/FitFuel/client/
+src/main.jsx:4:7[31m
+[33m
+2: import { createRoot } 
+from 'react-dom/client'
+3: import 
+'./styles/index.css'
+4: import App from 
+'./styles/App.css'
+          ^
+5: 
+6: createRoot(document.getEle
+mentById('root')).render(
+[31m
+    at getRollupError (file:/
+//D:/FitFuel/client/node_modu
+les/rollup/dist/es/shared/par
+seAst.js:401:41)
+    at error (file:///D:/FitF
+uel/client/node_modules/rollu
+p/dist/es/shared/parseAst.js:
+397:42)
+    at Module.error (file:///
+D:/FitFuel/client/node_module
+s/rollup/dist/es/shared/node-
+entry.js:16875:16)
+    at Module.traceVariable (
+file:///D:/FitFuel/client/nod
+e_modules/rollup/dist/es/shar
+ed/node-entry.js:17327:29)
+    at 
+ModuleScope.findVariable (fil
+e:///D:/FitFuel/client/node_m
+odules/rollup/dist/es/shared/
+node-entry.js:14997:39)
+    at Identifier.bind (file:
+///D:/FitFuel/client/node_mod
+ules/rollup/dist/es/shared/no
+de-entry.js:5394:40)
+    at CallExpression.bind (f
+ile:///D:/FitFuel/client/node
+_modules/rollup/dist/es/share
+d/node-entry.js:2781:28)
+    at CallExpression.bind (f
+ile:///D:/FitFuel/client/node
+_modules/rollup/dist/es/share
+d/node-entry.js:12058:15)
+    at Property.bind (file://
+/D:/FitFuel/client/node_modul
+es/rollup/dist/es/shared/node
+-entry.js:2785:23)
+    at ObjectExpression.bind 
+(file:///D:/FitFuel/client/no
+de_modules/rollup/dist/es/sha
+red/node-entry.js:2781:28)[3
+9m
