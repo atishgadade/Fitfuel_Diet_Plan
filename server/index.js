@@ -7,10 +7,15 @@ const admin = require('firebase-admin');
 // Initialize Firebase Admin (Using credentials in env or serviceAccountKey.json)
 if (!admin.apps.length) {
     if (process.env.FIREBASE_CREDS) {
-        let cert = JSON.parse(process.env.FIREBASE_CREDS);
-        admin.initializeApp({
-            credential: admin.credential.cert(cert)
-        });
+        try {
+            let cert = JSON.parse(process.env.FIREBASE_CREDS);
+            admin.initializeApp({
+                credential: admin.credential.cert(cert)
+            });
+        } catch (e) {
+            console.error('ERROR: Failed to parse FIREBASE_CREDS JSON:', e.message);
+            admin.initializeApp();
+        }
     } else {
         // Try loading from serviceAccountKey.json (shared with ML service)
         const serviceAccountPath = path.resolve(__dirname, '..', 'fitfuel-ml-service', 'serviceAccountKey.json');
