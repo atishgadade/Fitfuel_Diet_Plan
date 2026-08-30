@@ -3,7 +3,7 @@ const router = express.Router();
 const axios = require('axios');
 const { loadCollection, budgetFilter } = require('../utils/filters');
 
-const ML_SERVICE_URL = process.env.ML_SERVICE_URL || 'http://localhost:8000';
+const ML_SERVICE_URL = (process.env.ML_SERVICE_URL || 'http://localhost:8000').replace(/\/+$/, '');
 
 function calculateBMI(height_cm, weight_kg) {
     const h_m = height_cm / 100;

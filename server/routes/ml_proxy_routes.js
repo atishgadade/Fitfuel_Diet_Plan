@@ -3,7 +3,7 @@ const router = express.Router();
 const axios = require('axios');
 
 // Map directly to FastAPI microservice
-const ML_SERVICE_URL = process.env.ML_SERVICE_URL || 'http://127.0.0.1:8000';
+const ML_SERVICE_URL = (process.env.ML_SERVICE_URL || 'http://127.0.0.1:8000').replace(/\/+$/, '');
 
 // Mock Auth Validator Middleware
 const validateJWT = (req, res, next) => {
