@@ -44,5 +44,9 @@ app.get('/health', (req, res) => {
     res.json({ status: 'OK', message: 'Fitness Fuel Server running' });
 });
 
-const PORT = process.env.PORT || 4000;
-app.listen(PORT, () => console.log(`Gateway running on port ${PORT}`));
+if (require.main === module) {
+    const PORT = process.env.PORT || 4000;
+    app.listen(PORT, () => console.log(`Gateway running on port ${PORT}`));
+}
+
+module.exports = app;
