@@ -21,7 +21,7 @@ router.post('/recommend', validateJWT, async (req, res) => {
         // If not, we map it here. Assuming Frontend posts directly now:
         const mlResponse = await axios.post(`${ML_SERVICE_URL}/api/recommend`, payload, {
             headers: { 'Content-Type': 'application/json' },
-            timeout: 10000 // NLP extraction can take time if cache misses
+            timeout: 55000 // Increased timeout for Render cold starts
         });
 
         res.json(mlResponse.data);

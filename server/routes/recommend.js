@@ -56,10 +56,10 @@ router.post('/recommend', validateJWT, async (req, res) => {
         };
 
         // 3. Call ML Service
-        const mlResponse = await axios.post(`${ML_SERVICE_URL}/recommend`, {
+        const mlResponse = await axios.post(`${ML_SERVICE_URL}/api/recommend`, {
             user_profile,
             filtered_plans: filteredPlans
-        });
+        }, { timeout: 55000 });
 
         // 4. Enrich/Format for client 
         const rankedPlans = mlResponse.data.ranked.map(planRanking => {
